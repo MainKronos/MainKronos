@@ -1,0 +1,3 @@
+[submodule "other/university/projects/JShooter"]
+	path = other/university/projects/JShooter
+	url = https://github.com/MainKronos/JShooter.git
