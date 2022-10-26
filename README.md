@@ -4,7 +4,7 @@
 -->
 
 
-<h1>Hello < Developers/ >! <img src="res/hand.gif" width=30px> </h1>
+<h1>Hello < Developers/ >! <img src="res/hand.gif" width="30px"> </h1>
 <p align=center>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - ⚡ Fun fact: I don't have a girlfriend 🌧
 - 📫 How to reach me: <a href="http://discordapp.com/users/173063242187276288" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="discord logo" /></a> <a href="mailto:lorenzo.chesi@live.it"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="gmail logo"/></a>
 
-<h2>Programming languages <img src="res/dev.gif" width=32px> </h2>
+<h2>Programming languages <img src="res/dev.gif" width="32px"> </h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="7%" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="7%" alt="html5 logo"  />
