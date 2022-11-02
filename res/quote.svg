@@ -44,7 +44,6 @@
 				font-size: 5em;
 				color: #9FA8DA;
 				font-weight: normal;
-				animation: float 2s ease-in-out infinite;
 			}
 			.quote-card:after {
 				font-family: Georgia, serif;
@@ -56,23 +55,11 @@
 				font-size: 25em;
 				color: #9FA8DA;
 				font-weight: normal;
-				animation: float 2s ease-in-out infinite;
 			}
 			@media (max-width: 640px) {
 				.quote-card:after {
 					font-size: 22em;
 					right: -25px;
-				}
-			}
-			@keyframes float {
-				0% {
-					transform: translatey(0px);
-				}
-				50% {
-					transform: translatey(-2%);
-				}
-				100% {
-					transform: translatey(0px);
 				}
 			}
 		</style>
