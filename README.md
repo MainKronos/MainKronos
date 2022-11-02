@@ -69,6 +69,10 @@
 </p>
 
 
+<img src="res/page.svg">
+
+<script type="text/javascript" src="https://gerhobbelt.github.com/bl.ocks.org-hack/fixit.js"></script>
+
   <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=MainKronos&count_private=true&show_icons=true&hide_border=true&text_color=fdfdfd&bg_color=0d1017&disable_animations=true"> -->
 <!--
 **MainKronos/MainKronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
