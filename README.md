@@ -55,7 +55,7 @@
 
 <br>
 
-<h2>📊 GitHub Profile Stats</h2>
+<h2>~ 📊 GitHub Profile Stats 📊 ~</h2>
 <p align="center">
 	<img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=MainKronos&theme=dark&hide_border=true&fire=9FA8DA&ring=9FA8DA&currStreakLabel=9FA8DA&background=212121&border_radius=15"> 
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=MainKronos&theme=dark&show_icons=true&hide_border=true&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=15&disable_animations=true">
@@ -63,9 +63,9 @@
 	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKronos&layout=compact&langs_count=10&hide_border=true&theme=dark&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=10">
 </p>
 
-<h2 align="center">✍️ Dev Quote</h2>
+<h2 align="center">~ ✍️ Dev Quote ✍️ ~</h2>
 <p align="center">
-	<img src="res/quote.svg" width="100%" alt="css-in-readme">
+	<img src="res/quote.svg" width="100%">
 </p>
 
 
