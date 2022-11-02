@@ -3,8 +3,9 @@
 --background-color: #212121; rgb(33,33,33)
 -->
 
+
+
 <h1 align="center">👋 Hello < Developers />!</h1>
-<p align=center>
 
 <p align="center">
 	<img width="100%" src="./res/Github.gif">
@@ -13,7 +14,7 @@
 
 <h2 align="center"> ~ 🌧 About me 🌧 ~</h2>
 
-<img src="res\fushi.gif" align="right" height="150px">
+<img src="res/fushi.gif" align="right" height="150px">
 
 - 👋 Hi, I’m Lorenzo
 - 🎒 I'm a Computer Engineering Student
@@ -62,17 +63,13 @@
 	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKronos&layout=compact&langs_count=10&hide_border=true&theme=dark&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=10">
 </p>
 
-
-
 <h2 align="center">✍️ Dev Quote</h2>
 <p align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Love%20is%20simply%20an%20electrical%20bug%20in%20the%20human%20neural%20circuit.">
+	<img src="res/quote.svg" width="100%" alt="css-in-readme">
 </p>
+
+
   <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=MainKronos&count_private=true&show_icons=true&hide_border=true&text_color=fdfdfd&bg_color=0d1017&disable_animations=true"> -->
 <!--
 **MainKronos/MainKronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<div align="center">
-    <img src="res\test.svg" width="400" height="400" alt="css-in-readme">
-</div>
