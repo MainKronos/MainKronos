@@ -23,7 +23,7 @@
 - ⚡ Fun fact: I don't have a girlfriend 🌧
 - 📫 How to reach me: <a href="http://discordapp.com/users/173063242187276288" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="discord logo" /></a> <a href="mailto:lorenzo.chesi@live.it"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="gmail logo"/></a>
 
-<img src="res/hr.svg" width="100%">
+<img src="res/alchemy.svg" width="100%">
 
 <h2 align="center">~ 💻 Tech Stack 💻 ~</h2>
 	<img src="res\tech.gif" align="left" height="200px">
@@ -54,7 +54,7 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" width="7%" alt="vscode logo"/>            
 </div>
 
-<img src="res/hr.svg" width="100%">
+<img src="res/alchemy.svg" width="100%">
 
 <h2>~ 📊 GitHub Profile Stats 📊 ~</h2>
 <p align="center">
@@ -62,16 +62,15 @@
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=MainKronos&theme=dark&show_icons=true&hide_border=true&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=15&disable_animations=true">
 	<img width="90.4%" src="https://activity-graph.herokuapp.com/graph?username=MainKronos&theme=github-dark&hide_border=true&bg_color=212121&color=9FA8DA&title_color=9FA8DA&line=9FA8DA&point=9FA8DA&radius=15">
 	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKronos&layout=compact&langs_count=10&hide_border=true&theme=dark&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=10">
-	<img src="res/hr.svg" width="100%">
 </p>
 
-
+<img src="res/alchemy.svg" width="100%">
 
 <h2 align="center">~ ✍️ Dev Quote ✍️ ~</h2>
 
 <img align="center" src="res/quote.svg" width="100%">
 
-<img src="res/hr.svg" width="100%">
+<img src="res/alchemy.svg" width="100%">
 
   <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=MainKronos&count_private=true&show_icons=true&hide_border=true&text_color=fdfdfd&bg_color=0d1017&disable_animations=true"> -->
 <!--
