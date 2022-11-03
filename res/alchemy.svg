@@ -145,7 +145,7 @@
 	<g transform="translate(1600 250)">	
 
 		<!-- Sfondo -->
-		<g fill="#212121" filter="drop-shadow(0 0 20px #9FA8DA)" stroke-width="10">
+		<g fill="#212121" filter="drop-shadow(0 0 10px #212121)" stroke-width="10">
 			<circle cx="0" cy="0" r="210"/>
 
 			<g stroke="#212121" 
