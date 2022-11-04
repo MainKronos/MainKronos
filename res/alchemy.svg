@@ -11,9 +11,9 @@
 		}
 	</style>
 
-	<symbol id="alchemy" viewBox="0 0 500 500" width="500" height="500">
+	<symbol id="alchemy" viewBox="0 0 600 600" width="600" height="600">
 		<!-- Cerchio alchemico -->
-		<g transform="translate(250 250)">
+		<g transform="translate(300 300)">
 
 			<circle cx="0" cy="0" r="250"
 				stroke-dasharray="1570.796" stroke-dashoffset="1570.796">
@@ -64,20 +64,32 @@
 				</polygon>
 
 				<!-- Triangolo -->
-				<g stroke-dasharray="1201.927" stroke-dashoffset="1201.927">
+				<g stroke-dasharray="318.756" stroke-dashoffset="318.756">
 					<animate
 						attributeName="stroke-dashoffset"
-						values="1201.927; 0"
+						values="318.756; 0"
 						keyTimes="0; 1"
 						begin="3s"
-						dur="12s"
+						dur="3s"
 						fill="freeze"
 					/>
 					<polyline points="-35,-110 -190.526,-110 -112.763,24.689"/>
-					<circle cx="-95.263" cy="55" r="35"/>
 					<polyline points="-77.763,85.311 0,220 77.763,85.311"/>
-					<circle cx="95.263" cy="55" r="35"/>
 					<polyline points="112.763,24.689 190.526,-110 35,-110"/>
+				</g>
+
+				<!-- Piccoli cerchi -->
+				<g stroke-dasharray="219.911" stroke-dashoffset="219.911">
+					<animate
+						attributeName="stroke-dashoffset"
+						values="219.911; 0"
+						keyTimes="0; 1"
+						begin="3s"
+						dur="3s"
+						fill="freeze"
+					/>
+					<circle cx="-95.263" cy="55" r="35"/>
+					<circle cx="95.263" cy="55" r="35"/>
 					<circle cx="0" cy="-110" r="35"/>
 				</g>
 
@@ -164,7 +176,7 @@
 		</g>
 		<use 
 			href="#alchemy" 
-			x="-250" y="-250" 
+			x="-300" y="-300" 
 			transform="scale(0.8)"/>
 	</g>
 	
