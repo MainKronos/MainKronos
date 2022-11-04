@@ -14,24 +14,35 @@
 	<symbol id="alchemy" viewBox="0 0 600 600" width="600" height="600">
 		<!-- Cerchio alchemico -->
 		<g transform="translate(300 300)">
+			<animate
+				id="myLoop"
+				attributeName="opacity"
+				values="1;0"
+				keyTimes="0; 1"
+				begin="rotationBlockA.end"
+				dur="1s"/>
 
 			<circle cx="0" cy="0" r="250"
 				stroke-dasharray="1570.796" stroke-dashoffset="1570.796">
 				<animate
+					id="exCircle1A"
 					attributeName="stroke-dashoffset"
 					values="1570.796; 0"
 					keyTimes="0; 1"
+					begin="0s;myLoop.end"
 					dur="3s"
-					fill="freeze"
+					fill="freeze"		
 				/>
 			</circle>
 
 			<circle cx="0" cy="0" r="220"
 				stroke-dasharray="1382.301" stroke-dashoffset="1382.301">
 				<animate
+					id="exCircle2A"
 					attributeName="stroke-dashoffset"
 					values="1382.301; 0"
 					keyTimes="0; 1"
+					begin="0s;myLoop.end"
 					dur="3s"
 					fill="freeze"
 				/>
@@ -40,13 +51,13 @@
 			<!-- Rotazione interna -->
 			<g>
 				<animateTransform
+					id="rotationBlockA"
 					attributeName="transform"
 					type="rotate"
 					from="0"
-					to="360"
-					begin="6s"
-					dur="6s"
-					end="10s"
+					to="240"
+					begin="hexagonA.end"
+					dur="4s"
 					fill="freeze"
 				/>
 				
@@ -54,13 +65,15 @@
 				<polygon points="0,220 190.526,110 190.526,-110 0,-220 -190.526,-110 -190.526,110"
 					stroke-dasharray="1320" stroke-dashoffset="1320">
 					<animate
+						id="hexagonA"
 						attributeName="stroke-dashoffset"
 						values="1320; 0"
 						keyTimes="0; 1"
-						begin="3s"
+						begin="exCircle1A.end"
 						dur="3s"
 						fill="freeze"
 					/>
+					<set attributeName="stroke-dashoffset" to="1320" begin="myLoop.end"/>
 				</polygon>
 
 				<!-- Triangolo -->
@@ -69,10 +82,11 @@
 						attributeName="stroke-dashoffset"
 						values="318.756; 0"
 						keyTimes="0; 1"
-						begin="3s"
+						begin="exCircle1A.end"
 						dur="3s"
 						fill="freeze"
 					/>
+					<set attributeName="stroke-dashoffset" to="318.756" begin="myLoop.end"/>
 					<polyline points="-35,-110 -190.526,-110 -112.763,24.689"/>
 					<polyline points="-77.763,85.311 0,220 77.763,85.311"/>
 					<polyline points="112.763,24.689 190.526,-110 35,-110"/>
@@ -84,10 +98,11 @@
 						attributeName="stroke-dashoffset"
 						values="219.911; 0"
 						keyTimes="0; 1"
-						begin="3s"
+						begin="exCircle1A.end"
 						dur="3s"
 						fill="freeze"
 					/>
+					<set attributeName="stroke-dashoffset" to="219.911" begin="myLoop.end"/>
 					<circle cx="-95.263" cy="55" r="35"/>
 					<circle cx="95.263" cy="55" r="35"/>
 					<circle cx="0" cy="-110" r="35"/>
@@ -96,14 +111,15 @@
 				<!-- Linee diagonali -->
 				<g stroke-dasharray="335" stroke-dashoffset="335">
 					<animate
+						id="diagonalLinesA"
 						attributeName="stroke-dashoffset"
 						values="335; 0"
 						keyTimes="0; 1"
-						begin="6s"
+						begin="hexagonA.end"
 						dur="2s"
 						fill="freeze"
 					/>
-
+					<set attributeName="stroke-dashoffset" to="335" begin="myLoop.end"/>
 					<path d="M 0 220 L 0 -75 M 0 -145 L 0 -220"/>
 					<path d="M 190.526 -110 L -64.952 37.5 M -125.574 72.5 L -190.526 110"/>
 					<path d="M -190.526 -110 L 64.952 37.5 M 125.574 72.5 L 190.526 110"/>
@@ -115,10 +131,11 @@
 						attributeName="stroke-dashoffset"
 						values="230.383; 0"
 						keyTimes="0; 1"
-						begin="6s"
+						begin="hexagonA.end"
 						dur="2s"
 						fill="freeze"
 					/>
+					<set attributeName="stroke-dashoffset" to="230.383" begin="myLoop.end"/>
 					<path d="M -95.263 165 A 110 110 0 0 1 95.263 165"/>
 					<path d="M -95.262 -165 A 110 110 0 0 1 -190.526 0"/>
 					<path d="M 190.526 0 A 110 110 0 0 1 95.262 -165"/>
@@ -132,10 +149,11 @@
 						attributeName="stroke-dashoffset"
 						values="1130.973; 0"
 						keyTimes="0; 1"
-						begin="8s"
+						begin="diagonalLinesA.end"
 						dur="2s"
 						fill="freeze"
 					/>
+					<set attributeName="stroke-dashoffset" to="1130.973" begin="myLoop.end"/>
 				</circle>
 				
 				<!-- Cerchio piccolo -->
@@ -145,10 +163,11 @@
 						attributeName="stroke-dashoffset"
 						values="376.991; 0"
 						keyTimes="0; 1"
-						begin="8s"
+						begin="diagonalLinesA.end"
 						dur="2s"
 						fill="freeze"
 					/>
+					<set attributeName="stroke-dashoffset" to="376.991" begin="myLoop.end"/>
 				</circle>
 			</g>
 		</g>
@@ -167,7 +186,7 @@
 					attributeName="stroke-dashoffset"
 					values="6190; 0"
 					keyTimes="0; 1"
-					dur="1s"
+					dur="7s"
 					fill="freeze"
 				/>
 				<path d="M -210,0 L -6400,0"/>
