@@ -12,15 +12,29 @@
 	</style>
 
 	<symbol id="alchemy" viewBox="0 0 600 600" width="600" height="600">
+		
+		<filter id="shadow">
+			<feDropShadow dx="0" dy="0" stdDeviation="10" flood-color="#9FA8DA" flood-opacity="0">
+				<animate 
+					attributeName="flood-opacity"
+					values="0;1;1"
+					keyTimes="0; 0.5; 1"
+					dur="1s"
+					begin="myLoop.begin"
+				/>
+			</feDropShadow>
+		</filter>
+
 		<!-- Cerchio alchemico -->
-		<g transform="translate(300 300)">
+		<g transform="translate(300 300)" filter="url(#shadow)">
 			<animate
 				id="myLoop"
 				attributeName="opacity"
-				values="1;0"
-				keyTimes="0; 1"
+				values="1;1;0"
+				keyTimes="0; 0.5; 1"
 				begin="rotationBlockA.end"
-				dur="1s"/>
+				dur="1s"
+			/>			
 
 			<circle cx="0" cy="0" r="250"
 				stroke-dasharray="1570.796" stroke-dashoffset="1570.796">
