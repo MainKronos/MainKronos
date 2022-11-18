@@ -66,6 +66,12 @@
 
 <img src="res/alchemy.svg" width="100%" height="100px">
 
+<h2 align="center">~ 🥇 Badge 🥇 ~</h2>
+
+[![@mainkronos's Holopin board](https://holopin.me/mainkronos)](https://holopin.io/@mainkronos)
+
+<img src="res/alchemy.svg" width="100%" height="100px">
+
 <h2 align="center">~ ✍️ Dev Quote ✍️ ~</h2>
 
 <img align="center" src="res/quote.svg" width="100%">
