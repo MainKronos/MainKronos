@@ -3,10 +3,6 @@
 --background-color: #212121; rgb(33,33,33)
 -->
 
-
-
-<h1 align="center">👋 Hello < Developers />!</h1>
-
 <p align="center">
 	<img width="100%" src="./res/Github.gif">
 	<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9FA8DA&height=100" />
