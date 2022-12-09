@@ -26,7 +26,7 @@
 <img src="res/alchemy.svg" width="100%" height="100px">
 
 <h2 align="center">~ 💻 Tech Stack 💻 ~</h2>
-	<img src="res\tech.gif" align="left" height="200px">
+
 <div align="center">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="7%" alt="javascript logo">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="7%" alt="html5 logo"/>
