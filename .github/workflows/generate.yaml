@@ -1,0 +1,24 @@
+name: Generate README
+
+on:
+  schedule: [{cron: '0 2 * * *'}]
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install curl
+        run: "sudo apt-get install -y curl"
+      - name: Generate quote
+        run: "./script/quote.sh > ./res/quote.svg"
+        shell: bash
+      - run: |
+          git config --local user.name "${{ github.repository_owner }}"
+          git add .
+          git commit -m "Update quote"
+          git push
+      
