@@ -70,7 +70,7 @@
 
 <h2 align="center">~ ✍️ Dev Quote ✍️ ~</h2>
 
-<img align="center" src="res/quote.svg" width="100%">
+<img align="center" src="res/quote.svg" width="100%" height="250px">
 
   <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=MainKronos&count_private=true&show_icons=true&hide_border=true&text_color=fdfdfd&bg_color=0d1017&disable_animations=true"> -->
 <!--
