@@ -70,7 +70,7 @@
 
 <h2 align="center">~ ✍️ Dev Quote ✍️ ~</h2>
 
-<img align="center" src="res/quote.svg" width="100%">
+<img align="center" src="res/quote.svg" width="100%" height="250px">
 
 <p align="center">
 	<br>
