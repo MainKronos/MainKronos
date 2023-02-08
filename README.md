@@ -56,9 +56,9 @@
 <p align="center">
 	<img width="45%" src="http://github-readme-streak-stats.herokuapp.com?user=MainKronos&theme=dark&hide_border=true&fire=9FA8DA&ring=9FA8DA&currStreakLabel=9FA8DA&background=212121&border_radius=15"> 
 	<img width="45%" src="https://github-readme-stats.vercel.app/api?username=MainKronos&theme=dark&show_icons=true&hide_border=true&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=15&disable_animations=true">
-	<img width="90.4%" src="https://activity-graph.herokuapp.com/graph?username=MainKronos&theme=github-dark&hide_border=true&bg_color=212121&color=9FA8DA&title_color=9FA8DA&line=9FA8DA&point=9FA8DA&radius=15">
 	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MainKronos&layout=compact&langs_count=10&hide_border=true&theme=dark&bg_color=212121&title_color=9FA8DA&icon_color=9FA8DA&border_radius=10">
 </p>
+
 
 <img src="res/hr.svg" width="100%" height="100px">
 
@@ -72,7 +72,13 @@
 
 <img align="center" src="res/quote.svg" width="100%">
 
-  <!-- <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=MainKronos&count_private=true&show_icons=true&hide_border=true&text_color=fdfdfd&bg_color=0d1017&disable_animations=true"> -->
+<p align="center">
+	<br>
+	<br>
+	<img src="https://api.visitorbadge.io/api/combined?path=MainKronos&labelColor=%23212121&countColor=%239fa8da">
+</p>
+
+
 <!--
 **MainKronos/MainKronos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
