@@ -11,14 +11,22 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v3
-      - name: Install curl
-        run: "sudo apt-get install -y curl"
-      - name: Generate quote
-        run: "./script/quote.sh > ./res/quote.svg"
-        shell: bash
-      - run: |
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+       - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
+      - name: Generate README
+        run: python generate.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit changes
+        run: |
           git config --local user.name "${{ github.repository_owner }}"
           git add .
-          git commit -m "Update quote"
+          git commit -m "Update README"
           git push
       
