@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
       - name: Generate README
-        run: python generate.py
+        run: python script/generate.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit changes
