@@ -25,16 +25,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [fix permission](https://github.com/MainKronos/MainKronos/commit/d7747048407277afea0e1e93d7beeb83cf6e792f)
+- 📌 [fix permission](https://github.com/MainKronos/MainKronos/commit/0d1561e961308decd1f59d1048e5c8a48fd33d1d)
+- 📌 [fix name](https://github.com/MainKronos/MainKronos/commit/a82ea20eae9850b3bd93d103710583aca65b1ef4)
 ### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
 > Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
 - 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
 - 📌 [Correzione problema delle directory con spazi](https://github.com/MainKronos/IngegneriaInformatica/commit/91cfc9fae7d8fe344ae5dd5f52958be2eb8fdfd9)
 - 📌 [Piccole correzioni al Setup di Assembler per Visual Studio Code](https://github.com/MainKronos/IngegneriaInformatica/commit/ab449d7d4e3fe345bcc114bce28991df5c90a185)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Merge branch 'main' of https://github.com/MainKronos/MainKronos](https://github.com/MainKronos/MainKronos/commit/b36a3cbdebcd37ea28bb4635bb93d33f9203f891)
-- 📌 [up](https://github.com/MainKronos/MainKronos/commit/96f1064e84aed8bf039a4b6f41d0ab3421d55d5d)
-- 📌 [up](https://github.com/MainKronos/MainKronos/commit/11078b1e3b52ac238c7d30ee01ed7de04ca293cf)
 ### 🔒 [Laureandosi2.0](https://github.com/MainKronos/Laureandosi2.0)
 > Progetto per l'esame di Ingegneria del Software (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
 - 📌 [fix](https://github.com/MainKronos/Laureandosi2.0/commit/8f831ecbc27640eead22981e464dc1bb47f5a26a)
