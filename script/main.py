@@ -1,9 +1,7 @@
 import requests
-import sys, re
-import os
+import sys, os, re, time
 
 GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-
 
 def genActivity() -> str :
 	ret = ""
@@ -66,17 +64,18 @@ def main(argv):
 	"""
 
 	activity_delimiter = re.compile("(?<=<!-- BEGIN ACTIVITY -->\n).*?(?=<!-- END ACTIVITY -->)", re.DOTALL)
+	quote_delimiter = re.compile("(?<=<!-- BEGIN QUOTE -->\n).*?(?=<!-- END QUOTE -->)", re.DOTALL)
 	
 	data = ""
 	with open("README.md", 'r') as f:
 		data = activity_delimiter.sub(f"\n{genActivity()}\n", f.read())
+		data = quote_delimiter.sub(f"\n<img align='center' src='res/quote.svg?{time.time()}' width='100%' height='250px'>\n\n", data)
 
 	with open("README.md", 'w') as f:
 		f.write(data)
 	
 	with open("res/quote.svg", 'w') as f:
 		f.write(genQuote())
-
 
 if __name__ == "__main__":
 	main(sys.argv)
