@@ -25,22 +25,6 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [corretta generazione quote](https://github.com/MainKronos/MainKronos/commit/fd1e27e4893355996456894125e7666da08bbeee)
-- 📌 [fix permission](https://github.com/MainKronos/MainKronos/commit/d7747048407277afea0e1e93d7beeb83cf6e792f)
-- 📌 [fix permission](https://github.com/MainKronos/MainKronos/commit/0d1561e961308decd1f59d1048e5c8a48fd33d1d)
-### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
-> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
-- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
-- 📌 [Correzione problema delle directory con spazi](https://github.com/MainKronos/IngegneriaInformatica/commit/91cfc9fae7d8fe344ae5dd5f52958be2eb8fdfd9)
-- 📌 [Piccole correzioni al Setup di Assembler per Visual Studio Code](https://github.com/MainKronos/IngegneriaInformatica/commit/ab449d7d4e3fe345bcc114bce28991df5c90a185)
-### 🔒 [Laureandosi2.0](https://github.com/MainKronos/Laureandosi2.0)
-> Progetto per l'esame di Ingegneria del Software (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [fix](https://github.com/MainKronos/Laureandosi2.0/commit/8f831ecbc27640eead22981e464dc1bb47f5a26a)
-- 📌 [up doc](https://github.com/MainKronos/Laureandosi2.0/commit/94ef9f6ee6b7110d71daf32770fc2181ecb76c1f)
-- 📌 [fix doc](https://github.com/MainKronos/Laureandosi2.0/commit/7c31736092ef1448c04b0a9fd4025baaf1007c4d)
-
 <!-- END ACTIVITY -->
 
 <img src="res/hr.svg" width="100%" height="100px">
@@ -95,8 +79,6 @@
 <h2 align="center">~ ✍️ Dev Quote ✍️ ~</h2>
 
 <!-- BEGIN QUOTE -->
-
-<img align='center' src='res/quote.svg?1676022571.7029796' width='100%' height='250px'>
 
 <!-- END QUOTE -->
 
