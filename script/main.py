@@ -158,7 +158,7 @@ def main(argv):
 	data = ""
 	with open("README.md", 'r') as f:
 		data = activity_delimiter.sub(f"\n{genActivity()}\n", f.read())
-		data = quote_delimiter.sub(f"\n<img align='center' src='res/quote.svg?{time.time()}' width='100%'\>\n\n", data)
+		data = quote_delimiter.sub(f"\n<img align='center' src='res/quote.svg?{time.time()}' width='100%'>\n\n", data)
 
 	with open("README.md", 'w') as f:
 		f.write(data)
