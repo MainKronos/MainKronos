@@ -27,9 +27,9 @@
 
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/0927550e086330022ecef85cb0aaf1fe779fc64f)
 - 📌 [aggiornamento svg](https://github.com/MainKronos/MainKronos/commit/d32566e9e6c9c175f6ebfcbd1d2db3d07f683307)
 - 📌 [corretta generazione quote](https://github.com/MainKronos/MainKronos/commit/fd1e27e4893355996456894125e7666da08bbeee)
-- 📌 [fix permission](https://github.com/MainKronos/MainKronos/commit/d7747048407277afea0e1e93d7beeb83cf6e792f)
 ### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
 > Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
 - 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
@@ -96,7 +96,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1676036667.8816166' width='100%'>
+<img align='center' src='res/quote.svg?1676083298.4058847' width='100%'>
 
 <!-- END QUOTE -->
 
