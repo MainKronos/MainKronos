@@ -1,11 +1,13 @@
 {
     "tasks": [
         {
-            "type": "shell",
+            "type": "cppbuild",
             "label": "cppbuild",
-            "command": "make",
+            "command": "g++",
             "args": [
-                "${fileBasenameNoExtension}"
+                "${fileBasename}",
+				"-o",
+				"${fileBasenameNoExtension}.bin"
             ],
             "options": {
                 "cwd": "${fileDirname}"

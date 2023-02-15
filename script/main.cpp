@@ -1,8 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <pthread.h>
 
-#include "lib.h"
+#include "json.h"
 
+using namespace std;
 
 
 
@@ -10,11 +12,6 @@
 
 int main(int argc, char *argv[])
 {
-	
-	(void)argc;
-	(void)argv;
-
-	Vector<int>* v = new Vector<int>();
 
 
 	printf("Hello World!\n");
