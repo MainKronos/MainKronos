@@ -1,34 +1,25 @@
 {
-    "version": "2.0.0",
     "tasks": [
         {
-            "type": "cppbuild",
+            "type": "shell",
             "label": "cppbuild",
-            "command": "/usr/bin/gcc",
+            "command": "make",
             "args": [
-                "-fdiagnostics-color=always",
-                "-g",
-                "${file}",
-                "-o",
-                "${fileDirname}/${fileBasenameNoExtension}.bin",
-				"-lpthread",
-				"-lssl",
-				"-lcrypto",
-				"-lcjson",
-				"-lm",
-				"-std=gnu17"
+                "${fileBasenameNoExtension}"
             ],
             "options": {
                 "cwd": "${fileDirname}"
             },
-            "problemMatcher": [
-                "$gcc"
-            ],
-            "group": {
-                "kind": "build",
-                "isDefault": true
+            "problemMatcher": {
+                "base": "$gcc",
+                "fileLocation": [
+                    "relative",
+                    "${fileDirname}"
+                ]
             },
+            "group": "build",
             "detail": "Attività generata dal debugger."
         }
-    ]
+    ],
+    "version": "2.0.0"
 }
