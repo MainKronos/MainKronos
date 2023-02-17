@@ -25,6 +25,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Update FUNDING.yml](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c8f396f101771c9eb27b9209db670cfc0ca4f58e)
+- 📌 [Merge pull request #90 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6f4de5120affeaec1991ea63e73b57333b32aaec)
+- 📌 [1.9.1](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/9c9722fca3d5f48c3e24b5da5a4f7ac429092ebc)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/0927550e086330022ecef85cb0aaf1fe779fc64f)
@@ -35,11 +40,6 @@
 - 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
 - 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
 - 📌 [Correzione problema delle directory con spazi](https://github.com/MainKronos/IngegneriaInformatica/commit/91cfc9fae7d8fe344ae5dd5f52958be2eb8fdfd9)
-### 🔒 [Laureandosi2.0](https://github.com/MainKronos/Laureandosi2.0)
-> Progetto per l'esame di Ingegneria del Software (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [fix](https://github.com/MainKronos/Laureandosi2.0/commit/8f831ecbc27640eead22981e464dc1bb47f5a26a)
-- 📌 [up doc](https://github.com/MainKronos/Laureandosi2.0/commit/94ef9f6ee6b7110d71daf32770fc2181ecb76c1f)
-- 📌 [fix doc](https://github.com/MainKronos/Laureandosi2.0/commit/7c31736092ef1448c04b0a9fd4025baaf1007c4d)
 
 <!-- END ACTIVITY -->
 
@@ -96,7 +96,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1676515713.256348' width='100%'>
+<img align='center' src='res/quote.svg?1676602346.3711326' width='100%'>
 
 <!-- END QUOTE -->
 
