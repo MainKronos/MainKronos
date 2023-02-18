@@ -27,9 +27,9 @@
 
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #92 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d15081578aa19838a6d25601b5bc64b819f0b325)
+- 📌 [Correzione problema permessi e aggiustato workflow](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/51a25ce79dcfb5375c24833c12f4873fd0d0f8c3)
 - 📌 [Update FUNDING.yml](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c8f396f101771c9eb27b9209db670cfc0ca4f58e)
-- 📌 [Merge pull request #90 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6f4de5120affeaec1991ea63e73b57333b32aaec)
-- 📌 [1.9.1](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/9c9722fca3d5f48c3e24b5da5a4f7ac429092ebc)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/0927550e086330022ecef85cb0aaf1fe779fc64f)
@@ -96,7 +96,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1676602346.3711326' width='100%'>
+<img align='center' src='res/quote.svg?1676703995.7531154' width='100%'>
 
 <!-- END QUOTE -->
 
