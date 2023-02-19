@@ -25,16 +25,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Merge pull request #92 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d15081578aa19838a6d25601b5bc64b819f0b325)
-- 📌 [Correzione problema permessi e aggiustato workflow](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/51a25ce79dcfb5375c24833c12f4873fd0d0f8c3)
-- 📌 [Update FUNDING.yml](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c8f396f101771c9eb27b9209db670cfc0ca4f58e)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/0927550e086330022ecef85cb0aaf1fe779fc64f)
 - 📌 [aggiornamento svg](https://github.com/MainKronos/MainKronos/commit/d32566e9e6c9c175f6ebfcbd1d2db3d07f683307)
 - 📌 [corretta generazione quote](https://github.com/MainKronos/MainKronos/commit/fd1e27e4893355996456894125e7666da08bbeee)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #92 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d15081578aa19838a6d25601b5bc64b819f0b325)
+- 📌 [Correzione problema permessi e aggiustato workflow](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/51a25ce79dcfb5375c24833c12f4873fd0d0f8c3)
+- 📌 [Update FUNDING.yml](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c8f396f101771c9eb27b9209db670cfc0ca4f58e)
 ### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
 > Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
 - 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
@@ -96,7 +96,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1676703995.7531154' width='100%'>
+<img align='center' src='res/quote.svg?1676774998.1686172' width='100%'>
 
 <!-- END QUOTE -->
 
