@@ -164,7 +164,7 @@ def main(argv):
 
 	activity_delimiter = re.compile("(?<=<!-- BEGIN ACTIVITY -->\n).*?(?=<!-- END ACTIVITY -->)", re.DOTALL)
 	quote_delimiter = re.compile("(?<=<!-- BEGIN QUOTE -->\n).*?(?=<!-- END QUOTE -->)", re.DOTALL)
-	age_delimiter = re.compile("(?<=- ⏳ Age: )\d+(?= years old)")
+	age_delimiter = re.compile("(?<=Age: )\d+(?= years old)")
 	
 	data = ""
 	with open("README.md", 'r') as f:
