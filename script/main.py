@@ -148,7 +148,7 @@ def genQuote() -> str:
 </svg>
 """
 
-def genAge() -> str:
+def genAge() -> int:
 	"""
 	Genera il numero dei miei anni per il README.md.
 	"""
@@ -167,12 +167,12 @@ def main(argv):
 	age_delimiter = re.compile("(?<=Age: )\d+(?= years old)")
 	
 	data = ""
-	with open("README.md", 'r') as f:
+	with open("README.md", 'r', encoding="utf-8") as f:
 		data = activity_delimiter.sub(f"\n{genActivity()}\n", f.read())
 		data = quote_delimiter.sub(f"\n<img align='center' src='res/quote.svg?{time.time()}' width='100%'>\n\n", data)
-		data = age_delimiter.sub(genAge(), data)
+		data = age_delimiter.sub(str(genAge()), data)
 
-	with open("README.md", 'w') as f:
+	with open("README.md", 'w',  encoding="utf-8") as f:
 		f.write(data)
 	
 	with open("res/quote.svg", 'w') as f:
