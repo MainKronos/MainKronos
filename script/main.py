@@ -1,8 +1,9 @@
 import requests
 import sys, os, re, time, math
+from datetime import date
 
-GITHUB_TOKEN = os.getenv("GITHUB_TOKEN")
-
+AUTH_TOKEN = os.getenv("AUTH_TOKEN")
+BIRTHDAY = os.getenv("BIRTHDAY")
 
 def genActivity() -> str :
 	"""
@@ -16,7 +17,7 @@ def genActivity() -> str :
 			"Accept": "application/vnd.github+json",
 			"X-GitHub-Api-Version": "2022-11-28"
 		},
-		auth=("MainKronos",GITHUB_TOKEN),
+		auth=("MainKronos",AUTH_TOKEN),
 		params={
 			"visibility": "all",
 			"affiliation": "owner",
@@ -39,7 +40,7 @@ def genActivity() -> str :
 				"Accept": "application/vnd.github+json",
 				"X-GitHub-Api-Version": "2022-11-28"
 			},
-			auth=("MainKronos",GITHUB_TOKEN),
+			auth=("MainKronos",AUTH_TOKEN),
 			params={
 				"author": "MainKronos",
 				"per_page": 3,
@@ -147,18 +148,29 @@ def genQuote() -> str:
 </svg>
 """
 
+def genAge() -> str:
+	"""
+	Genera il numero dei miei anni per il README.md.
+	"""
+
+	birthday = date.fromisoformat(BIRTHDAY)
+	today = date.today()
+	return int((today - birthday).days // 365.2425)
+
 def main(argv):
 	"""
-	Genera la lista degli ultimi rtepository modificati.
+	Aggiorna il readme.md.
 	"""
 
 	activity_delimiter = re.compile("(?<=<!-- BEGIN ACTIVITY -->\n).*?(?=<!-- END ACTIVITY -->)", re.DOTALL)
 	quote_delimiter = re.compile("(?<=<!-- BEGIN QUOTE -->\n).*?(?=<!-- END QUOTE -->)", re.DOTALL)
+	age_delimiter = re.compile("(?<=- ⏳ Age: )\d+(?= years old)")
 	
 	data = ""
 	with open("README.md", 'r') as f:
 		data = activity_delimiter.sub(f"\n{genActivity()}\n", f.read())
 		data = quote_delimiter.sub(f"\n<img align='center' src='res/quote.svg?{time.time()}' width='100%'>\n\n", data)
+		data = age_delimiter.sub(genAge(), data)
 
 	with open("README.md", 'w') as f:
 		f.write(data)

@@ -22,7 +22,8 @@ jobs:
       - name: Generate README
         run: python script/main.py
         env:
-          GITHUB_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+          BIRTHDAY: ${{ secrets.BIRTHDAY }}
       - name: Commit changes
         run: |
           git config --local user.name "${{ github.repository_owner }}"
