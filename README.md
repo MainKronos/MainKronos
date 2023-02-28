@@ -16,7 +16,7 @@
 - 🎒 I'm a Computer Engineering Student
 - 📺 I loves anime and manga
 - 🦊 Gender: Male
-- ⏳ Age: 0 years old
+- ⏳ Age: 22 years old
 - ⚡ Fun fact: I don't have a girlfriend 🌧
 - 📫 How to reach me: <a href="http://discordapp.com/users/173063242187276288" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="discord logo" /></a> <a href="mailto:lorenzo.chesi@live.it"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="gmail logo"/></a>
 
@@ -28,9 +28,9 @@
 
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
-- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/0927550e086330022ecef85cb0aaf1fe779fc64f)
-- 📌 [aggiornamento svg](https://github.com/MainKronos/MainKronos/commit/d32566e9e6c9c175f6ebfcbd1d2db3d07f683307)
-- 📌 [corretta generazione quote](https://github.com/MainKronos/MainKronos/commit/fd1e27e4893355996456894125e7666da08bbeee)
+- 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
+- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
+- 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Merge pull request #92 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d15081578aa19838a6d25601b5bc64b819f0b325)
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1677552571.4106197' width='100%'>
+<img align='center' src='res/quote.svg?1677593180.7057586' width='100%'>
 
 <!-- END QUOTE -->
 
