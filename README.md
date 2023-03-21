@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [Merge pull request #6 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/45800818ecd955189431bd5a4917977eabc9b749)
-- 📌 [1.4.22](https://github.com/MainKronos/AnimeWorld-API/commit/001576465bfb8b10e90d13a89e4bc374986bbd93)
-- 📌 [Correzzione caso limite](https://github.com/MainKronos/AnimeWorld-API/commit/b68639b1b55038218061920cdff40c0f9d4f6c65)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Aggiurnate FAQ (#95)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a2d5d4ef79f3d15b230234bcdc4bdb91f5f7ea65)
-- 📌 [Merge pull request #92 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d15081578aa19838a6d25601b5bc64b819f0b325)
-- 📌 [Correzione problema permessi e aggiustato workflow](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/51a25ce79dcfb5375c24833c12f4873fd0d0f8c3)
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> None
+- 📌 [add some tools](https://github.com/MainKronos/CyberChallenge.IT/commit/b7ce24648ab89c1a02233b888304874e77a81399)
+- 📌 [MTP](https://github.com/MainKronos/CyberChallenge.IT/commit/44df1564ec1ceceea0dde25bfda0a955482a187e)
+- 📌 [Initial commit](https://github.com/MainKronos/CyberChallenge.IT/commit/0da6565095d311b6f62d7d55a7b1f879e4e317a1)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [Merge pull request #6 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/45800818ecd955189431bd5a4917977eabc9b749)
+- 📌 [1.4.22](https://github.com/MainKronos/AnimeWorld-API/commit/001576465bfb8b10e90d13a89e4bc374986bbd93)
+- 📌 [Correzzione caso limite](https://github.com/MainKronos/AnimeWorld-API/commit/b68639b1b55038218061920cdff40c0f9d4f6c65)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679280200.5592673' width='100%'>
+<img align='center' src='res/quote.svg?1679365901.9055798' width='100%'>
 
 <!-- END QUOTE -->
 
