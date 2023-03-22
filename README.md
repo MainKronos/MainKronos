@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
+> None
+- 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
+- 📌 [readme update](https://github.com/MainKronos/CoffeeKey/commit/0406a05ad722f2cc593c6256972ccd6362bb6a93)
+- 📌 [update](https://github.com/MainKronos/CoffeeKey/commit/17daf6cdb840644c6e5e65bc1438907c006a24c8)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
+- 📌 [Aggiunte soluzioni](https://github.com/MainKronos/CyberChallenge.IT/commit/3164ffdbfadd1fb7373e29cf481dbcf13bf17d3c)
 - 📌 [docs](https://github.com/MainKronos/CyberChallenge.IT/commit/2449d046658fa7bdb002cd42d8afc327bc3d658e)
 - 📌 [add submodule](https://github.com/MainKronos/CyberChallenge.IT/commit/c9dd8d630ec3496e7f843a91876632625c365775)
-- 📌 [add some tools](https://github.com/MainKronos/CyberChallenge.IT/commit/b7ce24648ab89c1a02233b888304874e77a81399)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [Merge pull request #6 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/45800818ecd955189431bd5a4917977eabc9b749)
-- 📌 [1.4.22](https://github.com/MainKronos/AnimeWorld-API/commit/001576465bfb8b10e90d13a89e4bc374986bbd93)
-- 📌 [Correzzione caso limite](https://github.com/MainKronos/AnimeWorld-API/commit/b68639b1b55038218061920cdff40c0f9d4f6c65)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679452440.7938218' width='100%'>
+<img align='center' src='res/quote.svg?1679499831.14674' width='100%'>
 
 <!-- END QUOTE -->
 
