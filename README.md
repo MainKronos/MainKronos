@@ -28,9 +28,9 @@
 
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
+- 📌 [docs](https://github.com/MainKronos/CyberChallenge.IT/commit/2449d046658fa7bdb002cd42d8afc327bc3d658e)
+- 📌 [add submodule](https://github.com/MainKronos/CyberChallenge.IT/commit/c9dd8d630ec3496e7f843a91876632625c365775)
 - 📌 [add some tools](https://github.com/MainKronos/CyberChallenge.IT/commit/b7ce24648ab89c1a02233b888304874e77a81399)
-- 📌 [MTP](https://github.com/MainKronos/CyberChallenge.IT/commit/44df1564ec1ceceea0dde25bfda0a955482a187e)
-- 📌 [Initial commit](https://github.com/MainKronos/CyberChallenge.IT/commit/0da6565095d311b6f62d7d55a7b1f879e4e317a1)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679365901.9055798' width='100%'>
+<img align='center' src='res/quote.svg?1679452440.7938218' width='100%'>
 
 <!-- END QUOTE -->
 
