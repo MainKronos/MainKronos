@@ -26,6 +26,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
+- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
+- 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
 ### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
 > None
 - 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
@@ -36,11 +41,6 @@
 - 📌 [Aggiunte soluzioni](https://github.com/MainKronos/CyberChallenge.IT/commit/3164ffdbfadd1fb7373e29cf481dbcf13bf17d3c)
 - 📌 [docs](https://github.com/MainKronos/CyberChallenge.IT/commit/2449d046658fa7bdb002cd42d8afc327bc3d658e)
 - 📌 [add submodule](https://github.com/MainKronos/CyberChallenge.IT/commit/c9dd8d630ec3496e7f843a91876632625c365775)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
-- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
-- 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679499831.14674' width='100%'>
+<img align='center' src='res/quote.svg?1679538776.8496153' width='100%'>
 
 <!-- END QUOTE -->
 
