@@ -28,9 +28,9 @@
 
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/47956e23706ce53b9c40aeb17d590d53f0d73533)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/954edb895e62a5473a28f4683be013cc83d8099b)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/70a3b9ee4ff54e1baa9e04b2078ba4b1d39321e6)
-- 📌 [test](https://github.com/MainKronos/CyberChallenge.IT/commit/af407543e25c608ef67c45e8ce961bb3f6aa57e8)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679798286.7275252' width='100%'>
+<img align='center' src='res/quote.svg?1679884456.594172' width='100%'>
 
 <!-- END QUOTE -->
 
