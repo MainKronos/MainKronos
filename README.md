@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [Merge pull request #7 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/84f26bfb25570cc361ffa14c360faca3d718f1f0)
+- 📌 [add comments](https://github.com/MainKronos/AnimeWorld-API/commit/8c2ff744cfa442ae0c91cab4d0f086bd537fc9f5)
+- 📌 [CONTRIBUTING e __choiceBestServer()](https://github.com/MainKronos/AnimeWorld-API/commit/fa82a2c22da5073626ce9da8a6f973815e4b4462)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/47956e23706ce53b9c40aeb17d590d53f0d73533)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/954edb895e62a5473a28f4683be013cc83d8099b)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/70a3b9ee4ff54e1baa9e04b2078ba4b1d39321e6)
+- 📌 [CR_01 - Scrambled](https://github.com/MainKronos/CyberChallenge.IT/commit/3a927e2b2a41db1f9cfaffd87d1942735e686622)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d20fa6ee778ee0b08ac1e5a22c52596fed152a4e)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/51161751119d585ea32e36d54a7f67a6820293c5)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
-### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> None
-- 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
-- 📌 [readme update](https://github.com/MainKronos/CoffeeKey/commit/0406a05ad722f2cc593c6256972ccd6362bb6a93)
-- 📌 [update](https://github.com/MainKronos/CoffeeKey/commit/17daf6cdb840644c6e5e65bc1438907c006a24c8)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679884456.594172' width='100%'>
+<img align='center' src='res/quote.svg?1679970953.735306' width='100%'>
 
 <!-- END QUOTE -->
 
