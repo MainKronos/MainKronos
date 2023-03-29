@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [Merge pull request #7 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/84f26bfb25570cc361ffa14c360faca3d718f1f0)
-- 📌 [add comments](https://github.com/MainKronos/AnimeWorld-API/commit/8c2ff744cfa442ae0c91cab4d0f086bd537fc9f5)
-- 📌 [CONTRIBUTING e __choiceBestServer()](https://github.com/MainKronos/AnimeWorld-API/commit/fa82a2c22da5073626ce9da8a6f973815e4b4462)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/177612fdfb68288faff5be020a9d3841edf1cc1f)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/55e59bb1c107c37f995f65c64f408143df31bda0)
 - 📌 [CR_01 - Scrambled](https://github.com/MainKronos/CyberChallenge.IT/commit/3a927e2b2a41db1f9cfaffd87d1942735e686622)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d20fa6ee778ee0b08ac1e5a22c52596fed152a4e)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/51161751119d585ea32e36d54a7f67a6820293c5)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [Merge pull request #7 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/84f26bfb25570cc361ffa14c360faca3d718f1f0)
+- 📌 [add comments](https://github.com/MainKronos/AnimeWorld-API/commit/8c2ff744cfa442ae0c91cab4d0f086bd537fc9f5)
+- 📌 [CONTRIBUTING e __choiceBestServer()](https://github.com/MainKronos/AnimeWorld-API/commit/fa82a2c22da5073626ce9da8a6f973815e4b4462)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1679970953.735306' width='100%'>
+<img align='center' src='res/quote.svg?1680057790.3532264' width='100%'>
 
 <!-- END QUOTE -->
 
