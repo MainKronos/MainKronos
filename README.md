@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7a6c30b8c2f65fe99013d87d7b41e6eb2bb31acf)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/f2be57f6e192c89512179e8d4ebbecdfd7d498ec)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/19b352ac0d03390bd5b202832f756cedd1b94b3a)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
+- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
+- 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Dev (#97)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/018165cc9e48ba4f1fa39f64efccfa27b2630a5b)
 - 📌 [Aggiurnate FAQ (#95)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a2d5d4ef79f3d15b230234bcdc4bdb91f5f7ea65)
 - 📌 [Merge pull request #92 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d15081578aa19838a6d25601b5bc64b819f0b325)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [Merge pull request #8 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/59c67108985a2cde23a8701c0ebc72216c6e274a)
-- 📌 [fix cookie](https://github.com/MainKronos/AnimeWorld-API/commit/522c9eb031bf2f22d9e52350352f8deabdd90de3)
-- 📌 [Merge pull request #7 from MainKronos/dev](https://github.com/MainKronos/AnimeWorld-API/commit/84f26bfb25570cc361ffa14c360faca3d718f1f0)
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> None
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/f2be57f6e192c89512179e8d4ebbecdfd7d498ec)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/19b352ac0d03390bd5b202832f756cedd1b94b3a)
-- 📌 [2022-ws.01](https://github.com/MainKronos/CyberChallenge.IT/commit/b983d44b5eafe3d917cea149c90ab0d383264f7d)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1680661351.5559778' width='100%'>
+<img align='center' src='res/quote.svg?1680748246.2241673' width='100%'>
 
 <!-- END QUOTE -->
 
