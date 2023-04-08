@@ -26,8 +26,14 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/60ec726f3f8dbe7ebbaa7d9fc2b7fdcdca08d8b4)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/8edee7257fd18c2b0540ababae2121e93dcad23b)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7a6c30b8c2f65fe99013d87d7b41e6eb2bb31acf)
 ### 🔒 [InstaBot](https://github.com/MainKronos/InstaBot)
 > Instagram bot
+- 📌 [corretta classe ColoredFormatter](https://github.com/MainKronos/InstaBot/commit/9ba0609329d2f0d115ce267d34d6d47f6a0148a6)
 - 📌 [setup](https://github.com/MainKronos/InstaBot/commit/211e846d8d7effdd122e945b1d9c421946d94234)
 - 📌 [Initial commit](https://github.com/MainKronos/InstaBot/commit/ded13485cd46fd0e76a905a698d83100be9d0edd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
@@ -35,11 +41,6 @@
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> None
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7a6c30b8c2f65fe99013d87d7b41e6eb2bb31acf)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/f2be57f6e192c89512179e8d4ebbecdfd7d498ec)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/19b352ac0d03390bd5b202832f756cedd1b94b3a)
 
 <!-- END ACTIVITY -->
 
@@ -96,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1680834608.6194081' width='100%'>
+<img align='center' src='res/quote.svg?1680920804.8703306' width='100%'>
 
 <!-- END QUOTE -->
 
