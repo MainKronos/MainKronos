@@ -28,19 +28,19 @@
 
 ### 🔒 [TODO_BOT](https://github.com/MainKronos/TODO_BOT)
 > Instagram bot
-- 📌 [database](https://github.com/MainKronos/TODO_BOT/commit/8309e71564cc4511e5dcd9f86c7d3d80aac92d5e)
-- 📌 [set loop time](https://github.com/MainKronos/TODO_BOT/commit/13626e2439624035112fbf94da75470f8798582a)
-- 📌 [fix compose](https://github.com/MainKronos/TODO_BOT/commit/d8cb6c62c4cdcc5a1b2ba54d166fe9196f74b40c)
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> None
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/71e7983dfd15315a0e2702a4c24e4db21a3c6624)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/60ec726f3f8dbe7ebbaa7d9fc2b7fdcdca08d8b4)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/8edee7257fd18c2b0540ababae2121e93dcad23b)
+- 📌 [fix path db](https://github.com/MainKronos/TODO_BOT/commit/4c134597649128e972c1640b6ba6f0f00f862d3c)
+- 📌 [fix dd](https://github.com/MainKronos/TODO_BOT/commit/cedaa30abdc9674b5775b79b59ec5f81abf2dcb5)
+- 📌 [fix relogin](https://github.com/MainKronos/TODO_BOT/commit/b347a1152d08488179a1c5c6c63f8200f45166bb)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/71e7983dfd15315a0e2702a4c24e4db21a3c6624)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/60ec726f3f8dbe7ebbaa7d9fc2b7fdcdca08d8b4)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/8edee7257fd18c2b0540ababae2121e93dcad23b)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1681007506.2096353' width='100%'>
+<img align='center' src='res/quote.svg?1681180288.95284' width='100%'>
 
 <!-- END QUOTE -->
 
