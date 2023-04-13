@@ -26,6 +26,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
+- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
+- 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
 - 📌 [plottyboy](https://github.com/MainKronos/CyberChallenge.IT/commit/5452e85d080a5cd770dac9ae4bba2f2aa3da53ce)
@@ -36,11 +41,6 @@
 - 📌 [fix path db](https://github.com/MainKronos/TODO_BOT/commit/4c134597649128e972c1640b6ba6f0f00f862d3c)
 - 📌 [fix dd](https://github.com/MainKronos/TODO_BOT/commit/cedaa30abdc9674b5775b79b59ec5f81abf2dcb5)
 - 📌 [fix relogin](https://github.com/MainKronos/TODO_BOT/commit/b347a1152d08488179a1c5c6c63f8200f45166bb)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
-- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
-- 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1681266800.3667123' width='100%'>
+<img align='center' src='res/quote.svg?1681353068.1772761' width='100%'>
 
 <!-- END QUOTE -->
 
