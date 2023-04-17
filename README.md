@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
 > None
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/6d5507d0d748b07ee7b8f9a733a5c44a40e9c432)
-- 📌 [plottyboy](https://github.com/MainKronos/CyberChallenge.IT/commit/5452e85d080a5cd770dac9ae4bba2f2aa3da53ce)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/eafbd2ec62523fcdb481bd909cb52a825fd48ee9)
+- 📌 [up](https://github.com/MainKronos/MySnake/commit/431522407b1716f276f55e22aff7ebafc5eb2308)
+- 📌 [Update .gitignore](https://github.com/MainKronos/MySnake/commit/6047bc5501f1e4f5158b4e534134cc0a3e564823)
+- 📌 [Update server.py](https://github.com/MainKronos/MySnake/commit/5551f280edfb90133ea37c997f49ade36142b724)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 - 📌 [Update script](https://github.com/MainKronos/MainKronos/commit/e284a623bd5bc936a1aa1b490ad695575dc0d086)
-### 🔒 [TODO_BOT](https://github.com/MainKronos/TODO_BOT)
-> Instagram bot
-- 📌 [fix path db](https://github.com/MainKronos/TODO_BOT/commit/4c134597649128e972c1640b6ba6f0f00f862d3c)
-- 📌 [fix dd](https://github.com/MainKronos/TODO_BOT/commit/cedaa30abdc9674b5775b79b59ec5f81abf2dcb5)
-- 📌 [fix relogin](https://github.com/MainKronos/TODO_BOT/commit/b347a1152d08488179a1c5c6c63f8200f45166bb)
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/6d5507d0d748b07ee7b8f9a733a5c44a40e9c432)
+- 📌 [plottyboy](https://github.com/MainKronos/CyberChallenge.IT/commit/5452e85d080a5cd770dac9ae4bba2f2aa3da53ce)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/eafbd2ec62523fcdb481bd909cb52a825fd48ee9)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1681612527.939563' width='100%'>
+<img align='center' src='res/quote.svg?1681698807.4718277' width='100%'>
 
 <!-- END QUOTE -->
 
