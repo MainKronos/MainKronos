@@ -28,9 +28,9 @@
 
 ### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
 > None
-- 📌 [up](https://github.com/MainKronos/MySnake/commit/431522407b1716f276f55e22aff7ebafc5eb2308)
-- 📌 [Update .gitignore](https://github.com/MainKronos/MySnake/commit/6047bc5501f1e4f5158b4e534134cc0a3e564823)
-- 📌 [Update server.py](https://github.com/MainKronos/MySnake/commit/5551f280edfb90133ea37c997f49ade36142b724)
+- 📌 [docker](https://github.com/MainKronos/MySnake/commit/0bf507fd163d2cc918af75235d7ff323957ed0e0)
+- 📌 [food](https://github.com/MainKronos/MySnake/commit/c803c47a64e4a7527713b2e8358641f489971023)
+- 📌 [up](https://github.com/MainKronos/MySnake/commit/bc08b8073d8afa2e1b02ef65d13598854edbdbc0)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1681698807.4718277' width='100%'>
+<img align='center' src='res/quote.svg?1681785089.6788065' width='100%'>
 
 <!-- END QUOTE -->
 
