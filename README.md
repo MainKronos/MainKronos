@@ -54,7 +54,8 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="7%" alt="css3 logo"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" width="7%" alt="python logo"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="7%" alt="bash logo"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="7%" alt="c logo"/>
+	<img src="./res/assembly_x86_64.png" height="40" width="7%" alt="assembly logo"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="40" width="7%" alt="c logo"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="40" width="7%" alt="cplusplus logo"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="7%" alt="java logo"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" width="7%" alt="matlab logo"/>
