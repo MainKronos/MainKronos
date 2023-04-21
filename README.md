@@ -28,9 +28,9 @@
 
 ### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
 > None
+- 📌 [up](https://github.com/MainKronos/MySnake/commit/de7c7d33f97a19b7ee1d9163e700946447328e53)
 - 📌 [edge condition](https://github.com/MainKronos/MySnake/commit/ce278d96daea486c9ceb27071d36d6ba47de0ba3)
 - 📌 [thread](https://github.com/MainKronos/MySnake/commit/8bf4e033ea4618b05e68003fa2c68f33810441fb)
-- 📌 [up](https://github.com/MainKronos/MySnake/commit/05b33bc7c452f10db8c1261f8cca4eb5a6570f41)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1681957957.4554222' width='100%'>
+<img align='center' src='res/quote.svg?1682044380.7073822' width='100%'>
 
 <!-- END QUOTE -->
 
