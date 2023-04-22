@@ -26,21 +26,20 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
+### 🔒 [CSnake](https://github.com/MainKronos/CSnake)
 > None
-- 📌 [up](https://github.com/MainKronos/MySnake/commit/de7c7d33f97a19b7ee1d9163e700946447328e53)
-- 📌 [edge condition](https://github.com/MainKronos/MySnake/commit/ce278d96daea486c9ceb27071d36d6ba47de0ba3)
-- 📌 [thread](https://github.com/MainKronos/MySnake/commit/8bf4e033ea4618b05e68003fa2c68f33810441fb)
+- 📌 [up](https://github.com/MainKronos/CSnake/commit/0160141e1e948d9471d06bc0591be5ae50f5fcca)
+- 📌 [Initial commit](https://github.com/MainKronos/CSnake/commit/cb56d97817fa3c4651fbd42615b7054bb222c9ff)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
 > None
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/6d5507d0d748b07ee7b8f9a733a5c44a40e9c432)
-- 📌 [plottyboy](https://github.com/MainKronos/CyberChallenge.IT/commit/5452e85d080a5cd770dac9ae4bba2f2aa3da53ce)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/eafbd2ec62523fcdb481bd909cb52a825fd48ee9)
+- 📌 [up](https://github.com/MainKronos/MySnake/commit/de7c7d33f97a19b7ee1d9163e700946447328e53)
+- 📌 [edge condition](https://github.com/MainKronos/MySnake/commit/ce278d96daea486c9ceb27071d36d6ba47de0ba3)
+- 📌 [thread](https://github.com/MainKronos/MySnake/commit/8bf4e033ea4618b05e68003fa2c68f33810441fb)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682044380.7073822' width='100%'>
+<img align='center' src='res/quote.svg?1682130783.9112422' width='100%'>
 
 <!-- END QUOTE -->
 
