@@ -26,15 +26,14 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Battlesnake](https://github.com/MainKronos/Battlesnake)
+> None
+- 📌 [first commit](https://github.com/MainKronos/Battlesnake/commit/f776e95447bd9df2d5dd36eebfe76ee0692f1565)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
-### 🔒 [CSnake](https://github.com/MainKronos/CSnake)
-> None
-- 📌 [up](https://github.com/MainKronos/CSnake/commit/0160141e1e948d9471d06bc0591be5ae50f5fcca)
-- 📌 [Initial commit](https://github.com/MainKronos/CSnake/commit/cb56d97817fa3c4651fbd42615b7054bb222c9ff)
 ### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
 > None
 - 📌 [up](https://github.com/MainKronos/MySnake/commit/de7c7d33f97a19b7ee1d9163e700946447328e53)
@@ -97,7 +96,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682217540.63042' width='100%'>
+<img align='center' src='res/quote.svg?1682303668.275113' width='100%'>
 
 <!-- END QUOTE -->
 
