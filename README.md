@@ -28,9 +28,9 @@
 
 ### 🔒 [Battlesnake](https://github.com/MainKronos/Battlesnake)
 > None
-- 📌 [up](https://github.com/MainKronos/Battlesnake/commit/a4b78eb58a1c7c8ba92a4b68b44ca77fc63862c5)
-- 📌 [stable](https://github.com/MainKronos/Battlesnake/commit/16008930e7a99630f09622d7e041a38b35caf430)
-- 📌 [remove bin](https://github.com/MainKronos/Battlesnake/commit/ce33d5c1d5081fb50a8d3031fa80a6815a19d83b)
+- 📌 [fix apiversion](https://github.com/MainKronos/Battlesnake/commit/6977312eaa18d579d49684fcb77b38b17eecc80c)
+- 📌 [docker](https://github.com/MainKronos/Battlesnake/commit/7a2afdaa2a07480db198bdf066d2cd5918d27aa0)
+- 📌 [final](https://github.com/MainKronos/Battlesnake/commit/a30c27219cf862de210f87f71400430f7b2465db)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682390009.1319335' width='100%'>
+<img align='center' src='res/quote.svg?1682476415.8124228' width='100%'>
 
 <!-- END QUOTE -->
 
