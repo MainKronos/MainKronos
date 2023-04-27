@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Battlesnake](https://github.com/MainKronos/Battlesnake)
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
-- 📌 [fix apiversion](https://github.com/MainKronos/Battlesnake/commit/6977312eaa18d579d49684fcb77b38b17eecc80c)
-- 📌 [docker](https://github.com/MainKronos/Battlesnake/commit/7a2afdaa2a07480db198bdf066d2cd5918d27aa0)
-- 📌 [final](https://github.com/MainKronos/Battlesnake/commit/a30c27219cf862de210f87f71400430f7b2465db)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/064efea1f9e3cb6dd710061460072b16d8c90ef1)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/6d5507d0d748b07ee7b8f9a733a5c44a40e9c432)
+- 📌 [plottyboy](https://github.com/MainKronos/CyberChallenge.IT/commit/5452e85d080a5cd770dac9ae4bba2f2aa3da53ce)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
 - 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
-### 🔒 [MySnake](https://github.com/MainKronos/MySnake)
+### 🔒 [Battlesnake](https://github.com/MainKronos/Battlesnake)
 > None
-- 📌 [up](https://github.com/MainKronos/MySnake/commit/de7c7d33f97a19b7ee1d9163e700946447328e53)
-- 📌 [edge condition](https://github.com/MainKronos/MySnake/commit/ce278d96daea486c9ceb27071d36d6ba47de0ba3)
-- 📌 [thread](https://github.com/MainKronos/MySnake/commit/8bf4e033ea4618b05e68003fa2c68f33810441fb)
+- 📌 [fix apiversion](https://github.com/MainKronos/Battlesnake/commit/6977312eaa18d579d49684fcb77b38b17eecc80c)
+- 📌 [docker](https://github.com/MainKronos/Battlesnake/commit/7a2afdaa2a07480db198bdf066d2cd5918d27aa0)
+- 📌 [final](https://github.com/MainKronos/Battlesnake/commit/a30c27219cf862de210f87f71400430f7b2465db)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682476415.8124228' width='100%'>
+<img align='center' src='res/quote.svg?1682562839.6820898' width='100%'>
 
 <!-- END QUOTE -->
 
