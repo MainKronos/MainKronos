@@ -28,9 +28,9 @@
 
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > None
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d151e1ef2cfebcaf0118d25967c67d10e3f72e4b)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/064efea1f9e3cb6dd710061460072b16d8c90ef1)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/6d5507d0d748b07ee7b8f9a733a5c44a40e9c432)
-- 📌 [plottyboy](https://github.com/MainKronos/CyberChallenge.IT/commit/5452e85d080a5cd770dac9ae4bba2f2aa3da53ce)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682562839.6820898' width='100%'>
+<img align='center' src='res/quote.svg?1682649239.9015255' width='100%'>
 
 <!-- END QUOTE -->
 
