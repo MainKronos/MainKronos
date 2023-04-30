@@ -28,16 +28,16 @@
 
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [fix git user](https://github.com/MainKronos/MainKronos/commit/1416d546d23234234f9ba94edea65405c08d0b9b)
 - 📌 [assembly](https://github.com/MainKronos/MainKronos/commit/ffafef6d3482fed857eced9cfc84b1d043a04670)
 - 📌 [fix encoding error](https://github.com/MainKronos/MainKronos/commit/c381a6a8da6fe47f5f346119c05a8ef5cdf482ee)
-- 📌 [fix error](https://github.com/MainKronos/MainKronos/commit/1c4b04670824ec045ec4364b06e939fc49048284)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> None
+> Soluzioni challenge di CyberChallenge.it 2023
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/dd43d91a04606a1a2ab695a72e2f0562ca6a9c4f)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d151e1ef2cfebcaf0118d25967c67d10e3f72e4b)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/064efea1f9e3cb6dd710061460072b16d8c90ef1)
 ### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> None
+> Elkey Vulnerability Research
 - 📌 [fix](https://github.com/MainKronos/CoffeeKey/commit/52cc51b4576ed572fd6bf2adeb5d308f9a68f508)
 - 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
 - 📌 [readme update](https://github.com/MainKronos/CoffeeKey/commit/0406a05ad722f2cc593c6256972ccd6362bb6a93)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682821945.2360804' width='100%'>
+<img align='center' src='res/quote.svg?1682881964.1235137' width='100%'>
 
 <!-- END QUOTE -->
 
