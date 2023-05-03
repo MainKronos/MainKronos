@@ -26,21 +26,20 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
+> Configurazione e settaggi Home Server
+- 📌 [Gestione Dischi](https://github.com/MainKronos/Netvault-Server/commit/036cb7e4f49594077d4cb9aafde62d477b27edc2)
+- 📌 [iitial commit](https://github.com/MainKronos/Netvault-Server/commit/3578f4045f7556876129dc755a9e12f91ad301be)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/6ed458e249fb9916fa6fc512dcb8b83e1722f87e)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/5643779a7fdc5086682223cbe215f6c1b8d54212)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/5614db565a9e672c4e485440b91510dbd17ce0c3)
-- 📌 [fix git user](https://github.com/MainKronos/MainKronos/commit/1416d546d23234234f9ba94edea65405c08d0b9b)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > Soluzioni challenge di CyberChallenge.it 2023
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/dd43d91a04606a1a2ab695a72e2f0562ca6a9c4f)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d151e1ef2cfebcaf0118d25967c67d10e3f72e4b)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/064efea1f9e3cb6dd710061460072b16d8c90ef1)
-### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> Elkey Vulnerability Research
-- 📌 [fix](https://github.com/MainKronos/CoffeeKey/commit/52cc51b4576ed572fd6bf2adeb5d308f9a68f508)
-- 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
-- 📌 [readme update](https://github.com/MainKronos/CoffeeKey/commit/0406a05ad722f2cc593c6256972ccd6362bb6a93)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1682994816.345636' width='100%'>
+<img align='center' src='res/quote.svg?1683081095.4243982' width='100%'>
 
 <!-- END QUOTE -->
 
