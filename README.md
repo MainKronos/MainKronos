@@ -26,20 +26,20 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> Soluzioni challenge di CyberChallenge.it 2023
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/1fce688a158aa57e884304c094136f38f8b8ac3d)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/dd43d91a04606a1a2ab695a72e2f0562ca6a9c4f)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d151e1ef2cfebcaf0118d25967c67d10e3f72e4b)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/e9ddb91c215b3a352c005c6f2662f98bbb4e5c12)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/2cdedcfaf6fb0ceca568fcf31d20da4a24e82027)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/6ed458e249fb9916fa6fc512dcb8b83e1722f87e)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/5643779a7fdc5086682223cbe215f6c1b8d54212)
 ### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
 > Configurazione e settaggi Home Server
 - 📌 [Gestione Dischi](https://github.com/MainKronos/Netvault-Server/commit/036cb7e4f49594077d4cb9aafde62d477b27edc2)
 - 📌 [iitial commit](https://github.com/MainKronos/Netvault-Server/commit/3578f4045f7556876129dc755a9e12f91ad301be)
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> Soluzioni challenge di CyberChallenge.it 2023
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/dd43d91a04606a1a2ab695a72e2f0562ca6a9c4f)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/d151e1ef2cfebcaf0118d25967c67d10e3f72e4b)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/064efea1f9e3cb6dd710061460072b16d8c90ef1)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1683167504.923206' width='100%'>
+<img align='center' src='res/quote.svg?1683253829.338403' width='100%'>
 
 <!-- END QUOTE -->
 
