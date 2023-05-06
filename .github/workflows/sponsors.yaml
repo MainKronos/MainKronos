@@ -20,7 +20,7 @@ jobs:
           python -m pip install --upgrade pip
           if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
       - name: Generate sponsors
-        run: python script/main.py
+        run: python script/sponsors.py
         env:
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
           BIRTHDAY: ${{ secrets.BIRTHDAY }}
