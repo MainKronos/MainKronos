@@ -26,20 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Sponsor (#100)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a861545d8bd9ea2050b1854cb32ccda953fa29c1)
+- 📌 [Dev (#97)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/018165cc9e48ba4f1fa39f64efccfa27b2630a5b)
+- 📌 [Aggiurnate FAQ (#95)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a2d5d4ef79f3d15b230234bcdc4bdb91f5f7ea65)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/776d3980c68331abe2b8a9bf91ee0fd0ebe489a1)
+- 📌 [test](https://github.com/MainKronos/MainKronos/commit/5fdc970541ef6c8996a74cd50cbf15ccf1abacc7)
+- 📌 [fix sponsors.yaml](https://github.com/MainKronos/MainKronos/commit/3d033b8d8da916590a3930f6aff2697e8c5a071a)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > Soluzioni challenge di CyberChallenge.it 2023
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7234f922f045c3743fb309c00c5fdb88489cea46)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/1fce688a158aa57e884304c094136f38f8b8ac3d)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/dd43d91a04606a1a2ab695a72e2f0562ca6a9c4f)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/a8705c1e9c65b13d97dfacf7b9402c8a10d69c7f)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/e9ddb91c215b3a352c005c6f2662f98bbb4e5c12)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/2cdedcfaf6fb0ceca568fcf31d20da4a24e82027)
-### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
-> Configurazione e settaggi Home Server
-- 📌 [Gestione Dischi](https://github.com/MainKronos/Netvault-Server/commit/036cb7e4f49594077d4cb9aafde62d477b27edc2)
-- 📌 [iitial commit](https://github.com/MainKronos/Netvault-Server/commit/3578f4045f7556876129dc755a9e12f91ad301be)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1683340132.8831372' width='100%'>
+<img align='center' src='res/quote.svg?1683426721.126118' width='100%'>
 
 <!-- END QUOTE -->
 
