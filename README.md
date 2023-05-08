@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
+> Configurazione e settaggi Home Server
+- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/bcc760200fb0e9aba4a6cdb7d4d85df35de5ed82)
+- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/b5d697c92474b07a7ef0390a886dd108bd38bbb1)
+- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/0086360a9a732f5255b47ce9dbab56c95966c297)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/4c2cd483eafb273e86dc87ac390698a2efc50781)
+- 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/776d3980c68331abe2b8a9bf91ee0fd0ebe489a1)
+- 📌 [test](https://github.com/MainKronos/MainKronos/commit/5fdc970541ef6c8996a74cd50cbf15ccf1abacc7)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Sponsor (#100)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a861545d8bd9ea2050b1854cb32ccda953fa29c1)
 - 📌 [Dev (#97)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/018165cc9e48ba4f1fa39f64efccfa27b2630a5b)
 - 📌 [Aggiurnate FAQ (#95)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a2d5d4ef79f3d15b230234bcdc4bdb91f5f7ea65)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/776d3980c68331abe2b8a9bf91ee0fd0ebe489a1)
-- 📌 [test](https://github.com/MainKronos/MainKronos/commit/5fdc970541ef6c8996a74cd50cbf15ccf1abacc7)
-- 📌 [fix sponsors.yaml](https://github.com/MainKronos/MainKronos/commit/3d033b8d8da916590a3930f6aff2697e8c5a071a)
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> Soluzioni challenge di CyberChallenge.it 2023
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7234f922f045c3743fb309c00c5fdb88489cea46)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/1fce688a158aa57e884304c094136f38f8b8ac3d)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/dd43d91a04606a1a2ab695a72e2f0562ca6a9c4f)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1683426721.126118' width='100%'>
+<img align='center' src='res/quote.svg?1683512897.8930902' width='100%'>
 
 <!-- END QUOTE -->
 
