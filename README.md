@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
+> Soluzioni challenge di CyberChallenge.it 2023
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/12268d59622c7cfde289b179c92cb596e4a21df5)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7234f922f045c3743fb309c00c5fdb88489cea46)
+- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/1fce688a158aa57e884304c094136f38f8b8ac3d)
+### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
+> Elkey Vulnerability Research
+- 📌 [add Disclaimer](https://github.com/MainKronos/CoffeeKey/commit/97de860d3cbd65786f4257e3a4898b996d3cc990)
+- 📌 [fix](https://github.com/MainKronos/CoffeeKey/commit/52cc51b4576ed572fd6bf2adeb5d308f9a68f508)
+- 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/321b762e0e4352292e95c019547269c21e780b54)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/c5c5bfa252d84a3ed50d0965d03939910c63798d)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/647943799c6bd95e69793a2c5b1d76cd954a554b)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/9316df0040a9991d0ed9912f570ede75d80f64ea)
-### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
-> Configurazione e settaggi Home Server
-- 📌 [up](https://github.com/MainKronos/Netvault-Server/commit/eee90deccb7c39ba12c658145fd34e90f2fb24ab)
-- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/bcc760200fb0e9aba4a6cdb7d4d85df35de5ed82)
-- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/b5d697c92474b07a7ef0390a886dd108bd38bbb1)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Update README.md](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d80f1298d3aec0b95aa05a424ddf2f853f2a3c69)
-- 📌 [Sponsor (#100)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/a861545d8bd9ea2050b1854cb32ccda953fa29c1)
-- 📌 [Dev (#97)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/018165cc9e48ba4f1fa39f64efccfa27b2630a5b)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1683771985.872197' width='100%'>
+<img align='center' src='res/quote.svg?1683858313.818371' width='100%'>
 
 <!-- END QUOTE -->
 
