@@ -28,19 +28,19 @@
 
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > Soluzioni challenge di CyberChallenge.it 2023
+- 📌 [fix gitignore](https://github.com/MainKronos/CyberChallenge.IT/commit/7eae8a1a55154809743f6e5681c7f9b9a6e4f7ef)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/12268d59622c7cfde289b179c92cb596e4a21df5)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7234f922f045c3743fb309c00c5fdb88489cea46)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/1fce688a158aa57e884304c094136f38f8b8ac3d)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/d0143db86cb391928965807c951835c60d2b2699)
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/321b762e0e4352292e95c019547269c21e780b54)
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/c5c5bfa252d84a3ed50d0965d03939910c63798d)
 ### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
 > Elkey Vulnerability Research
 - 📌 [add Disclaimer](https://github.com/MainKronos/CoffeeKey/commit/97de860d3cbd65786f4257e3a4898b996d3cc990)
 - 📌 [fix](https://github.com/MainKronos/CoffeeKey/commit/52cc51b4576ed572fd6bf2adeb5d308f9a68f508)
 - 📌 [add mfcuk](https://github.com/MainKronos/CoffeeKey/commit/436a028a6d272aab6bcb733874e14df1a89afdc1)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/321b762e0e4352292e95c019547269c21e780b54)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/c5c5bfa252d84a3ed50d0965d03939910c63798d)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/647943799c6bd95e69793a2c5b1d76cd954a554b)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1683858313.818371' width='100%'>
+<img align='center' src='res/quote.svg?1683944710.963759' width='100%'>
 
 <!-- END QUOTE -->
 
