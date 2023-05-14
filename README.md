@@ -26,16 +26,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/fdf0d6dda77bc931f14d3a3ba27c37801e90f172)
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/d0143db86cb391928965807c951835c60d2b2699)
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/321b762e0e4352292e95c019547269c21e780b54)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > Soluzioni challenge di CyberChallenge.it 2023
 - 📌 [fix gitignore](https://github.com/MainKronos/CyberChallenge.IT/commit/7eae8a1a55154809743f6e5681c7f9b9a6e4f7ef)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/12268d59622c7cfde289b179c92cb596e4a21df5)
 - 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/7234f922f045c3743fb309c00c5fdb88489cea46)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/d0143db86cb391928965807c951835c60d2b2699)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/321b762e0e4352292e95c019547269c21e780b54)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/c5c5bfa252d84a3ed50d0965d03939910c63798d)
 ### 🔒 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
 > Elkey Vulnerability Research
 - 📌 [add Disclaimer](https://github.com/MainKronos/CoffeeKey/commit/97de860d3cbd65786f4257e3a4898b996d3cc990)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1683944710.963759' width='100%'>
+<img align='center' src='res/quote.svg?1684031351.3322604' width='100%'>
 
 <!-- END QUOTE -->
 
