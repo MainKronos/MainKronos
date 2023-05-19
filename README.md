@@ -28,9 +28,9 @@
 
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/f101680f742d85abe380e3588dfc26d7891d3c60)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/102071be54c1e517b82b9746b8b466f5ec7c380c)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/7c811aec8a60cf7b7dc27309dd708bb7ce9ee59f)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/c3084cb2bfcae8194bafd76e9624c5bc6c1d236e)
 ### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
 > Configurazione e settaggi Home Server
 - 📌 [Update readme.md](https://github.com/MainKronos/Netvault-Server/commit/485c7dc962d63b90ef319bf2199d43827648a59c)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1684376832.5435536' width='100%'>
+<img align='center' src='res/quote.svg?1684463274.3295765' width='100%'>
 
 <!-- END QUOTE -->
 
