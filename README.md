@@ -28,9 +28,9 @@
 
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/f09efbb286329267d073dec429ae7d8a9d3b5b27)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/4ffcee0beaa2ed33f6d984099f1d76ed05bf27ea)
 - 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/ff4706c1ceb218bae93bd2890867f5101e2c2e88)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/312cd9d5d4241eda8704fb0040395b7766633847)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > Soluzioni challenge di CyberChallenge.it 2023
 - 📌 [up crypto](https://github.com/MainKronos/CyberChallenge.IT/commit/1c43f070a7b27d41b780cd2d12b9faa0bf6bbd71)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1685068075.9216468' width='100%'>
+<img align='center' src='res/quote.svg?1685154408.9970315' width='100%'>
 
 <!-- END QUOTE -->
 
