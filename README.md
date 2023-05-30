@@ -26,16 +26,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/6f8f3a14d7b3f0f51dac8581d77c10deeaed157a)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/deb201ba949a9a9fb672d4fec2982f581240c7f1)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/f09efbb286329267d073dec429ae7d8a9d3b5b27)
 ### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
 > Soluzioni challenge di CyberChallenge.it 2023
+- 📌 [up HW](https://github.com/MainKronos/CyberChallenge.IT/commit/58e0d456d2b6261c2acf8fa78076ed103ccea56f)
 - 📌 [up HW](https://github.com/MainKronos/CyberChallenge.IT/commit/4a7caf6476e9a7ffb70f760bbc91bb053ce782ce)
 - 📌 [up crypto](https://github.com/MainKronos/CyberChallenge.IT/commit/1c43f070a7b27d41b780cd2d12b9faa0bf6bbd71)
-- 📌 [up](https://github.com/MainKronos/CyberChallenge.IT/commit/9679281ee2e57b6f5c136434a477abdbb72ed920)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/57e6cb60859096b28d70c764a274928dd5425b40)
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/6f8f3a14d7b3f0f51dac8581d77c10deeaed157a)
+- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/deb201ba949a9a9fb672d4fec2982f581240c7f1)
 ### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
 > Configurazione e settaggi Home Server
 - 📌 [Update readme.md](https://github.com/MainKronos/Netvault-Server/commit/485c7dc962d63b90ef319bf2199d43827648a59c)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1685327636.930503' width='100%'>
+<img align='center' src='res/quote.svg?1685414039.637621' width='100%'>
 
 <!-- END QUOTE -->
 
