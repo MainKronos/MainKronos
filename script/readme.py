@@ -189,7 +189,10 @@ def main(argv):
         f.write(data)
     
     with open("res/quote.svg", 'w') as f:
-        f.write(genQuote())
+        try:
+            f.write(genQuote())
+        except Exception:
+            pass
 
 if __name__ == "__main__":
     main(sys.argv)
