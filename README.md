@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [CyberChallenge.IT](https://github.com/MainKronos/CyberChallenge.IT)
-> Soluzioni challenge di CyberChallenge.it 2023
-- 📌 [up HW](https://github.com/MainKronos/CyberChallenge.IT/commit/58e0d456d2b6261c2acf8fa78076ed103ccea56f)
-- 📌 [up HW](https://github.com/MainKronos/CyberChallenge.IT/commit/4a7caf6476e9a7ffb70f760bbc91bb053ce782ce)
-- 📌 [up crypto](https://github.com/MainKronos/CyberChallenge.IT/commit/1c43f070a7b27d41b780cd2d12b9faa0bf6bbd71)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/57e6cb60859096b28d70c764a274928dd5425b40)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/6f8f3a14d7b3f0f51dac8581d77c10deeaed157a)
-- 📌 [Update README](https://github.com/MainKronos/MainKronos/commit/deb201ba949a9a9fb672d4fec2982f581240c7f1)
-### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
-> Configurazione e settaggi Home Server
-- 📌 [Update readme.md](https://github.com/MainKronos/Netvault-Server/commit/485c7dc962d63b90ef319bf2199d43827648a59c)
-- 📌 [Update readme.md](https://github.com/MainKronos/Netvault-Server/commit/3d219aea30495c61898e85ef855486e609c7baa4)
-- 📌 [Update readme.md](https://github.com/MainKronos/Netvault-Server/commit/019b68cd6ef697404aad87349924ae51ebcefebf)
+- 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
+- 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
+- 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [fetch-depth](https://github.com/MainKronos/AnimeWorld-API/commit/983bcf621a878cf477b99afd3b759bd7dd4242b1)
+- 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/2dc4a8f1cbcddda39ce10961bb9ccfeb04998faa)
+- 📌 [fix typing](https://github.com/MainKronos/AnimeWorld-API/commit/8a13c1ed7c4bb748b36f3109648d904794c534f6)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [corrette dipendenze](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ea86071c697bd3a8cb534bc4598ed1dc3f807c57)
+- 📌 [fix controlli url pattern (#102)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/1f9e72487658ba4a019572b01ed205afad534ba8)
+- 📌 [Update README.md](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d80f1298d3aec0b95aa05a424ddf2f853f2a3c69)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1688113925.5872624' width='100%'>
+<img align='center' src='res/quote.svg?1688114015.801696' width='100%'>
 
 <!-- END QUOTE -->
 
