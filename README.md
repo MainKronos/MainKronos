@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [mkdocs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/230277a14c040f52443dc73635369ea56b12828b)
+- 📌 [mkdocs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ed691e4b4da663bf7133af13093619dda30d4fdb)
+- 📌 [mkdocs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6038d4a82ef42a8fdf9b6be410da71fee4836405)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [errore battitura](https://github.com/MainKronos/AnimeWorld-API/commit/961fa154125425d42455578d22523bfeefe43826)
+- 📌 [fetch-depth](https://github.com/MainKronos/AnimeWorld-API/commit/983bcf621a878cf477b99afd3b759bd7dd4242b1)
+- 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/2dc4a8f1cbcddda39ce10961bb9ccfeb04998faa)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
 - 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [fetch-depth](https://github.com/MainKronos/AnimeWorld-API/commit/983bcf621a878cf477b99afd3b759bd7dd4242b1)
-- 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/2dc4a8f1cbcddda39ce10961bb9ccfeb04998faa)
-- 📌 [fix typing](https://github.com/MainKronos/AnimeWorld-API/commit/8a13c1ed7c4bb748b36f3109648d904794c534f6)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [corrette dipendenze](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ea86071c697bd3a8cb534bc4598ed1dc3f807c57)
-- 📌 [fix controlli url pattern (#102)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/1f9e72487658ba4a019572b01ed205afad534ba8)
-- 📌 [Update README.md](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/d80f1298d3aec0b95aa05a424ddf2f853f2a3c69)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1688114015.801696' width='100%'>
+<img align='center' src='res/quote.svg?1688180819.1478689' width='100%'>
 
 <!-- END QUOTE -->
 
