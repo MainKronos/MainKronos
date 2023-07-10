@@ -26,6 +26,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
+- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/2cbd185e61da6d8a59c6af72c4c0efb685222aa0)
+- 📌 [analytics e cookie](https://github.com/MainKronos/AnimeWorld-API/commit/87c6a6c400746457090c0cbe2b0f0874b7914800)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
@@ -36,11 +41,6 @@
 - 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
 - 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
 - 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7a53c41243d6df01aaf378b5f0fb587551f15a3a)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/2cbd185e61da6d8a59c6af72c4c0efb685222aa0)
-- 📌 [analytics e cookie](https://github.com/MainKronos/AnimeWorld-API/commit/87c6a6c400746457090c0cbe2b0f0874b7914800)
-- 📌 [errore battitura](https://github.com/MainKronos/AnimeWorld-API/commit/961fa154125425d42455578d22523bfeefe43826)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1688871986.7485054' width='100%'>
+<img align='center' src='res/quote.svg?1688958064.4275908' width='100%'>
 
 <!-- END QUOTE -->
 
