@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
-- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/2cbd185e61da6d8a59c6af72c4c0efb685222aa0)
-- 📌 [analytics e cookie](https://github.com/MainKronos/AnimeWorld-API/commit/87c6a6c400746457090c0cbe2b0f0874b7914800)
+### 🔒 [IdleGame](https://github.com/MainKronos/IdleGame)
+> None
+- 📌 [tab](https://github.com/MainKronos/IdleGame/commit/5f02a1fd3cc5bebbd267a4cfb89aa16e4ac97305)
+- 📌 [up](https://github.com/MainKronos/IdleGame/commit/e7875e733c4c51a2ae06ecf4e5ef6ae2f789e17e)
+- 📌 [first commit](https://github.com/MainKronos/IdleGame/commit/05098b51ce8a47ca1c2d3e164b789a371790ae29)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
 - 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
-- 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
-- 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7a53c41243d6df01aaf378b5f0fb587551f15a3a)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
+- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/2cbd185e61da6d8a59c6af72c4c0efb685222aa0)
+- 📌 [analytics e cookie](https://github.com/MainKronos/AnimeWorld-API/commit/87c6a6c400746457090c0cbe2b0f0874b7914800)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1688958064.4275908' width='100%'>
+<img align='center' src='res/quote.svg?1689043856.7659607' width='100%'>
 
 <!-- END QUOTE -->
 
