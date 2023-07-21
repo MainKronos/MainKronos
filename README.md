@@ -31,15 +31,15 @@
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
 - 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
+### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
+> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
+- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
+- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
+- 📌 [Correzione problema delle directory con spazi](https://github.com/MainKronos/IngegneriaInformatica/commit/91cfc9fae7d8fe344ae5dd5f52958be2eb8fdfd9)
 ### 🔓 [MyKingdom](https://github.com/MainKronos/MyKingdom)
 > None
 - 📌 [abs](https://github.com/MainKronos/MyKingdom/commit/34abe27904ac4316844aeaf90966df082ec1d9c8)
 - 📌 [first commit](https://github.com/MainKronos/MyKingdom/commit/7d6075e1b982547237b9cb812b1d30c18648b421)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
-- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/2cbd185e61da6d8a59c6af72c4c0efb685222aa0)
-- 📌 [analytics e cookie](https://github.com/MainKronos/AnimeWorld-API/commit/87c6a6c400746457090c0cbe2b0f0874b7914800)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +97,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1689820384.084436' width='100%'>
+<img align='center' src='res/quote.svg?1689906860.610203' width='100%'>
 
 <!-- END QUOTE -->
 
