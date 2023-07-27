@@ -26,20 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [1.6.2](https://github.com/MainKronos/AnimeWorld-API/commit/73143fbf64476d9449a3d156566daf44af415c94)
+- 📌 [#10](https://github.com/MainKronos/AnimeWorld-API/commit/2ae5235b7e073846edee50481c9752ba9befc6dd)
+- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> None
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d7bc88da51f7330e4d98e5dfe35cdd4b1bca2bc6)
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/04099f6af24675bff1eebc6b735915b4abc5a953)
+- 📌 [service-worker](https://github.com/MainKronos/Curriculum/commit/91c9ea162ad3eb5a3edd6727098d6b22faf3a1dd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
 - 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
-### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
-> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
-- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
-- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
-- 📌 [Correzione problema delle directory con spazi](https://github.com/MainKronos/IngegneriaInformatica/commit/91cfc9fae7d8fe344ae5dd5f52958be2eb8fdfd9)
-### 🔓 [MyKingdom](https://github.com/MainKronos/MyKingdom)
-> None
-- 📌 [abs](https://github.com/MainKronos/MyKingdom/commit/34abe27904ac4316844aeaf90966df082ec1d9c8)
-- 📌 [first commit](https://github.com/MainKronos/MyKingdom/commit/7d6075e1b982547237b9cb812b1d30c18648b421)
 
 <!-- END ACTIVITY -->
 
@@ -97,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1690338962.3766632' width='100%'>
+<img align='center' src='res/quote.svg?1690424762.918372' width='100%'>
 
 <!-- END QUOTE -->
 
