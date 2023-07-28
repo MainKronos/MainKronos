@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [1.6.2](https://github.com/MainKronos/AnimeWorld-API/commit/73143fbf64476d9449a3d156566daf44af415c94)
-- 📌 [#10](https://github.com/MainKronos/AnimeWorld-API/commit/2ae5235b7e073846edee50481c9752ba9befc6dd)
-- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> None
+> Curriculum Vitae
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/da361caedc94615b28f5035ba4c3a5c05598f64d)
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d7bc88da51f7330e4d98e5dfe35cdd4b1bca2bc6)
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/04099f6af24675bff1eebc6b735915b4abc5a953)
-- 📌 [service-worker](https://github.com/MainKronos/Curriculum/commit/91c9ea162ad3eb5a3edd6727098d6b22faf3a1dd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
 - 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [1.6.2](https://github.com/MainKronos/AnimeWorld-API/commit/73143fbf64476d9449a3d156566daf44af415c94)
+- 📌 [#10](https://github.com/MainKronos/AnimeWorld-API/commit/2ae5235b7e073846edee50481c9752ba9befc6dd)
+- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1690424762.918372' width='100%'>
+<img align='center' src='res/quote.svg?1690511359.2029617' width='100%'>
 
 <!-- END QUOTE -->
 
