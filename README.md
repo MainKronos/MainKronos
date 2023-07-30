@@ -26,16 +26,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/eceef6853562113e3f64c210fe2f0692d6e649d8)
-- 📌 [UP](https://github.com/MainKronos/Curriculum/commit/ddc498b3fa1b01ee471e65707d316804c40ddd24)
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/da361caedc94615b28f5035ba4c3a5c05598f64d)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/5d19afbf944737d55d667e8f6a6b64f5c5cf5243)
 - 📌 [fix cron](https://github.com/MainKronos/MainKronos/commit/d64e7fdfa929c4f0ac4dc6cf341ff7b4be64f7fa)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/eceef6853562113e3f64c210fe2f0692d6e649d8)
+- 📌 [UP](https://github.com/MainKronos/Curriculum/commit/ddc498b3fa1b01ee471e65707d316804c40ddd24)
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/da361caedc94615b28f5035ba4c3a5c05598f64d)
 ### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
 > AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
 - 📌 [1.6.2](https://github.com/MainKronos/AnimeWorld-API/commit/73143fbf64476d9449a3d156566daf44af415c94)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1690597554.402809' width='100%'>
+<img align='center' src='res/quote.svg?1690684090.460633' width='100%'>
 
 <!-- END QUOTE -->
 
