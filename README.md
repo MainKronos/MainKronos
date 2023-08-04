@@ -28,9 +28,9 @@
 
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/44ae7c0d2dc549e26888869d6c783cf5ba580405)
 - 📌 [up](https://github.com/MainKronos/Curriculum/commit/381ab1efbef43caca66f791acb07ff5a1c13d808)
 - 📌 [up](https://github.com/MainKronos/Curriculum/commit/695d77fc84f4d4e35f563e2e04cfc8b7d315a808)
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/da51c10f79ca7190f69cc1fc4d13cf8ee1883263)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1691029651.817886' width='100%'>
+<img align='center' src='res/quote.svg?1691116147.0283241' width='100%'>
 
 <!-- END QUOTE -->
 
