@@ -26,6 +26,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
+> Configurazione e settaggi Home Server
+- 📌 [ok](https://github.com/MainKronos/Netvault-Server/commit/25fd23afd7251ea71e9c7fffacc188c31f2fa974)
+- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/9626f3b92fb5382a42f64a04e13b86011da0a546)
+- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/bdb7b50139fbb9d76d8fec0d0e10c2b0915733b8)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
@@ -36,11 +41,6 @@
 - 📌 [up](https://github.com/MainKronos/Curriculum/commit/44ae7c0d2dc549e26888869d6c783cf5ba580405)
 - 📌 [up](https://github.com/MainKronos/Curriculum/commit/381ab1efbef43caca66f791acb07ff5a1c13d808)
 - 📌 [up](https://github.com/MainKronos/Curriculum/commit/695d77fc84f4d4e35f563e2e04cfc8b7d315a808)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [1.6.2](https://github.com/MainKronos/AnimeWorld-API/commit/73143fbf64476d9449a3d156566daf44af415c94)
-- 📌 [#10](https://github.com/MainKronos/AnimeWorld-API/commit/2ae5235b7e073846edee50481c9752ba9befc6dd)
-- 📌 [mkdocs](https://github.com/MainKronos/AnimeWorld-API/commit/c518eea69c8dd0edc5325b6d4ad51a950e37a4cb)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1691202372.4524853' width='100%'>
+<img align='center' src='res/quote.svg?1691288555.4306676' width='100%'>
 
 <!-- END QUOTE -->
 
