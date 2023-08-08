@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [1.6.3](https://github.com/MainKronos/AnimeWorld-API/commit/471bb939886dc337e4a76961ead1b21eb74c8618)
-- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/4fa97b87987e4470f6ccbfb8fe3429bb24b9518d)
-- 📌 [test](https://github.com/MainKronos/AnimeWorld-API/commit/6b5f12fbd2406d183ba5757e3fbf3400ede87183)
-### 🔒 [Netvault-Server](https://github.com/MainKronos/Netvault-Server)
-> Configurazione e settaggi Home Server
-- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/bf60ea3fc197d3cf0c269b06a033af08668c5745)
-- 📌 [ok](https://github.com/MainKronos/Netvault-Server/commit/25fd23afd7251ea71e9c7fffacc188c31f2fa974)
-- 📌 [fix](https://github.com/MainKronos/Netvault-Server/commit/9626f3b92fb5382a42f64a04e13b86011da0a546)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/b2cda0ceeeaa639985f7fe7dbd7001d4f1522713)
+- 📌 [boost](https://github.com/MainKronos/Curriculum/commit/61a0120e89b498c172fa88d4dc5b2d34a1f88e7d)
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/44ae7c0d2dc549e26888869d6c783cf5ba580405)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 - 📌 [Delete assembly_x86_64.png](https://github.com/MainKronos/MainKronos/commit/2fcd95f61d95249be7fa5d5e979db505db8602c1)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [1.6.3](https://github.com/MainKronos/AnimeWorld-API/commit/471bb939886dc337e4a76961ead1b21eb74c8618)
+- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/4fa97b87987e4470f6ccbfb8fe3429bb24b9518d)
+- 📌 [test](https://github.com/MainKronos/AnimeWorld-API/commit/6b5f12fbd2406d183ba5757e3fbf3400ede87183)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1691375402.3093367' width='100%'>
+<img align='center' src='res/quote.svg?1691461724.4395537' width='100%'>
 
 <!-- END QUOTE -->
 
