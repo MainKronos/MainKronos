@@ -26,6 +26,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+- 📌 [Delete assembly_x86_64.png](https://github.com/MainKronos/MainKronos/commit/2fcd95f61d95249be7fa5d5e979db505db8602c1)
+- 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 ### 🔒 [Lab](https://github.com/MainKronos/Lab)
 > None
 - 📌 [Initial commit](https://github.com/MainKronos/Lab/commit/55acc70dc45744b2763ef798c9d3e3e52d7ad4f3)
@@ -34,11 +39,6 @@
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/fff1d4e684ef791b3d730b1ee428fb9e4d88d534)
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/b2cda0ceeeaa639985f7fe7dbd7001d4f1522713)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-- 📌 [Delete assembly_x86_64.png](https://github.com/MainKronos/MainKronos/commit/2fcd95f61d95249be7fa5d5e979db505db8602c1)
-- 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
 
 <!-- END ACTIVITY -->
 
@@ -96,7 +96,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1691548150.0875251' width='100%'>
+<img align='center' src='res/quote.svg?1691634840.3868742' width='100%'>
 
 <!-- END QUOTE -->
 
