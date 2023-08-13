@@ -26,16 +26,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> None
-- 📌 [up](https://github.com/MainKronos/Lab/commit/4236bfd3131a35753c18d1a07734769af05dd0a3)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/5a6dfcff53106fc05db80275107fb35893e8a808)
-- 📌 [Initial commit](https://github.com/MainKronos/Lab/commit/55acc70dc45744b2763ef798c9d3e3e52d7ad4f3)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 - 📌 [Delete assembly_x86_64.png](https://github.com/MainKronos/MainKronos/commit/2fcd95f61d95249be7fa5d5e979db505db8602c1)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> None
+- 📌 [up](https://github.com/MainKronos/Lab/commit/4236bfd3131a35753c18d1a07734769af05dd0a3)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/5a6dfcff53106fc05db80275107fb35893e8a808)
+- 📌 [Initial commit](https://github.com/MainKronos/Lab/commit/55acc70dc45744b2763ef798c9d3e3e52d7ad4f3)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1691806595.6501892' width='100%'>
+<img align='center' src='res/quote.svg?1691893094.4296021' width='100%'>
 
 <!-- END QUOTE -->
 
