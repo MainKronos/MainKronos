@@ -26,21 +26,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [1.6.3](https://github.com/MainKronos/AnimeWorld-API/commit/471bb939886dc337e4a76961ead1b21eb74c8618)
+- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/4fa97b87987e4470f6ccbfb8fe3429bb24b9518d)
+- 📌 [test](https://github.com/MainKronos/AnimeWorld-API/commit/6b5f12fbd2406d183ba5757e3fbf3400ede87183)
 ### 🔒 [Lab](https://github.com/MainKronos/Lab)
 > None
-- 📌 [up](https://github.com/MainKronos/Lab/commit/4bdd37eaf6e3be7a90583de83e7b589d3f3959bf)
-- 📌 [web](https://github.com/MainKronos/Lab/commit/750dbcf30cb2b3bf9d142244cecb3d0fc72db5fe)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/4236bfd3131a35753c18d1a07734769af05dd0a3)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/bd513c750e75decc7ddb61404f000376f3149003)
+- 📌 [fix](https://github.com/MainKronos/Lab/commit/6054a728377f7485bdc60c20be0e3638bc80b253)
+- 📌 [fix](https://github.com/MainKronos/Lab/commit/a04459b1160535f2af146b34e0d93838dbdb79ec)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 - 📌 [Delete assembly_x86_64.png](https://github.com/MainKronos/MainKronos/commit/2fcd95f61d95249be7fa5d5e979db505db8602c1)
 - 📌 [CI](https://github.com/MainKronos/MainKronos/commit/461daf04050ee281d86a9b039ac927ff57f71b68)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/fff1d4e684ef791b3d730b1ee428fb9e4d88d534)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/b2cda0ceeeaa639985f7fe7dbd7001d4f1522713)
 
 <!-- END ACTIVITY -->
 
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1691979545.4511049' width='100%'>
+<img align='center' src='res/quote.svg?1692065905.4109616' width='100%'>
 
 <!-- END QUOTE -->
 
