@@ -26,16 +26,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [1.6.3](https://github.com/MainKronos/AnimeWorld-API/commit/471bb939886dc337e4a76961ead1b21eb74c8618)
-- 📌 [fix](https://github.com/MainKronos/AnimeWorld-API/commit/4fa97b87987e4470f6ccbfb8fe3429bb24b9518d)
-- 📌 [test](https://github.com/MainKronos/AnimeWorld-API/commit/6b5f12fbd2406d183ba5757e3fbf3400ede87183)
 ### 🔒 [Lab](https://github.com/MainKronos/Lab)
 > None
+- 📌 [up](https://github.com/MainKronos/Lab/commit/74f8b4ffb829debf8f50105ae808262dafc82ad2)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/bd513c750e75decc7ddb61404f000376f3149003)
 - 📌 [fix](https://github.com/MainKronos/Lab/commit/6054a728377f7485bdc60c20be0e3638bc80b253)
-- 📌 [fix](https://github.com/MainKronos/Lab/commit/a04459b1160535f2af146b34e0d93838dbdb79ec)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [Merge pull request #13 from ginop-1/master](https://github.com/MainKronos/AnimeWorld-API/commit/676a963e53163c1ba272a0f0ede9f1b107144532)
+- 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/825e0cc5aecbf034f749bf9c0adf140fc07a7750)
+- 📌 [correzione test](https://github.com/MainKronos/AnimeWorld-API/commit/90e3e0e06627812780f70cc61d841b520e17ce34)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
@@ -98,7 +98,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1692065905.4109616' width='100%'>
+<img align='center' src='res/quote.svg?1692152311.9374316' width='100%'>
 
 <!-- END QUOTE -->
 
