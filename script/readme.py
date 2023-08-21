@@ -59,7 +59,7 @@ def genQuote() -> str:
     """
     Genera il codice svg per la sezione "Quote".
     """
-    res = requests.get("https://animechan.vercel.app/api/random").json()
+    res = requests.get("https://animechan.xyz/api/random").json()
 
     quote = res["quote"]
 
@@ -188,9 +188,9 @@ def main(argv):
     with open("README.md", 'w',  encoding="utf-8") as f:
         f.write(data)
     
-    with open("res/quote.svg", 'w') as f:
+    with open("res/quote.svg", 'wb') as f:
         try:
-            f.write(genQuote())
+            f.write(genQuote().encode())
         except Exception:
             pass
 
