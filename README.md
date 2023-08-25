@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/c43f9045da185899274959af963e30942559ba1b)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/b68280a268b964bdc72618e7ef0e487054e73881)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/51d4048f27e01c2b10a9ef20ab68d6cf628b98fe)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
@@ -34,11 +39,6 @@
 - 📌 [1.6.4](https://github.com/MainKronos/AnimeWorld-API/commit/a13c571478720f5a924c3bfb32916c378bcd3ab9)
 - 📌 [Merge pull request #13 from ginop-1/master](https://github.com/MainKronos/AnimeWorld-API/commit/676a963e53163c1ba272a0f0ede9f1b107144532)
 - 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/825e0cc5aecbf034f749bf9c0adf140fc07a7750)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/b68280a268b964bdc72618e7ef0e487054e73881)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/51d4048f27e01c2b10a9ef20ab68d6cf628b98fe)
-- 📌 [fix](https://github.com/MainKronos/Lab/commit/b0bf57f043195bcc3537e2e73b1c78d6ff07b4ba)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1692843543.1490166' width='100%'>
+<img align='center' src='res/quote.svg?1692929985.0231035' width='100%'>
 
 <!-- END QUOTE -->
 
