@@ -26,19 +26,19 @@
 
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/e9719825e6119b00ab45a0225dae5f51af6aeeb9)
 - 📌 [up](https://github.com/MainKronos/Curriculum/commit/cdc1199f383296335e423888360df396ce46b511)
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/fff1d4e684ef791b3d730b1ee428fb9e4d88d534)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
+- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 ### 🔒 [Lab](https://github.com/MainKronos/Lab)
 > Hack The Box Writeups
 - 📌 [up](https://github.com/MainKronos/Lab/commit/8d7f18c0d582769c5c85fad27fc3d3389d099161)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/c43f9045da185899274959af963e30942559ba1b)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/b68280a268b964bdc72618e7ef0e487054e73881)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
-- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-- 📌 [Delete assembly_x86_64.png](https://github.com/MainKronos/MainKronos/commit/2fcd95f61d95249be7fa5d5e979db505db8602c1)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1693016249.6360617' width='100%'>
+<img align='center' src='res/quote.svg?1693102806.218215' width='100%'>
 
 <!-- END QUOTE -->
 
