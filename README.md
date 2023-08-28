@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/e9719825e6119b00ab45a0225dae5f51af6aeeb9)
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/cdc1199f383296335e423888360df396ce46b511)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
+### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
+> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [pam](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/514fc08b7dfa174a9414e642fefd0ad2bb4a379c)
+- 📌 [sync](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/f38bf9297ae66c626dbe76cba9ef832c62414a0f)
+- 📌 [Initial commit](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/afe8847d4b222bb7b50e2911795949ffe3a482ac)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/8d7f18c0d582769c5c85fad27fc3d3389d099161)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/c43f9045da185899274959af963e30942559ba1b)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/b68280a268b964bdc72618e7ef0e487054e73881)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/e9719825e6119b00ab45a0225dae5f51af6aeeb9)
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/cdc1199f383296335e423888360df396ce46b511)
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1693102806.218215' width='100%'>
+<img align='center' src='res/quote.svg?1693189202.4158447' width='100%'>
 
 <!-- END QUOTE -->
 
