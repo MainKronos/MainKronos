@@ -26,9 +26,9 @@
 
 ### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
 > Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [fix](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/06f5155be8b434b9ff2a3d04962a953b1098aa51)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/e997a659a6da5e5b1b796653f20d1bf301a05a5c)
 - 📌 [QAM](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/f9b19290d39ab9e03a1ff49b5151fd93a6c3aedd)
-- 📌 [pam](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/514fc08b7dfa174a9414e642fefd0ad2bb4a379c)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1693277370.3356647' width='100%'>
+<img align='center' src='res/quote.svg?1693361974.2270157' width='100%'>
 
 <!-- END QUOTE -->
 
