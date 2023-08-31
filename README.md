@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
-> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [fix](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/06f5155be8b434b9ff2a3d04962a953b1098aa51)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/e997a659a6da5e5b1b796653f20d1bf301a05a5c)
-- 📌 [QAM](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/f9b19290d39ab9e03a1ff49b5151fd93a6c3aedd)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
+- 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
+- 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/5540edb41b19c7fbd573f0ebf8d82edf58df6f5d)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/8d7f18c0d582769c5c85fad27fc3d3389d099161)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/c43f9045da185899274959af963e30942559ba1b)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/e9719825e6119b00ab45a0225dae5f51af6aeeb9)
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/cdc1199f383296335e423888360df396ce46b511)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/0b2bf9de89a047dc4acd5b308ebdf87cb6eec01e)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1693361974.2270157' width='100%'>
+<img align='center' src='res/quote.svg?1693448389.9983795' width='100%'>
 
 <!-- END QUOTE -->
 
