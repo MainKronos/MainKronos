@@ -29,16 +29,16 @@
 - 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 - 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
 - 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
+### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
+> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [fix](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/ee9db98e52b4bc490bf653ed204b018adf81a694)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/dcb5c0a049a111837667bf106d7758b3aa19d4f1)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3be7fb9b74fd31b6527344caff0957d373fdd534)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
-> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/dcb5c0a049a111837667bf106d7758b3aa19d4f1)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3be7fb9b74fd31b6527344caff0957d373fdd534)
-- 📌 [fix](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/06f5155be8b434b9ff2a3d04962a953b1098aa51)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1694312487.1459796' width='100%'>
+<img align='center' src='res/quote.svg?1694398851.837943' width='100%'>
 
 <!-- END QUOTE -->
 
