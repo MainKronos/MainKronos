@@ -26,6 +26,7 @@
 
 ### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
 > None
+- 📌 [setup](https://github.com/MainKronos/Tesi/commit/8d9c561f91595d04428026e862368829d410fd35)
 - 📌 [Initial commit](https://github.com/MainKronos/Tesi/commit/f8d61bdaecb2c0ce266cea9139eadecf11c6a539)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
@@ -86,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1694830679.0937028' width='100%'>
+<img align='center' src='res/quote.svg?1694917268.0965312' width='100%'>
 
 <!-- END QUOTE -->
 
