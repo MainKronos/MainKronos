@@ -24,20 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
-> None
-- 📌 [setup](https://github.com/MainKronos/Tesi/commit/8d9c561f91595d04428026e862368829d410fd35)
-- 📌 [Initial commit](https://github.com/MainKronos/Tesi/commit/f8d61bdaecb2c0ce266cea9139eadecf11c6a539)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
-- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
-- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 - 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
 - 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
+### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
+> None
+- 📌 [color](https://github.com/MainKronos/Tesi/commit/f8cbf85cfc06d2fe49bfaaf4d209d0d80e5bb4f6)
+- 📌 [error](https://github.com/MainKronos/Tesi/commit/2eebd1dc2550d771df60f3eff35ba386982cf323)
+- 📌 [ok](https://github.com/MainKronos/Tesi/commit/f8c6341297a03941dcd24708a60a3f1387b28556)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
+- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 
 <!-- END ACTIVITY -->
 
@@ -87,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1694917268.0965312' width='100%'>
+<img align='center' src='res/quote.svg?1695003643.9274411' width='100%'>
 
 <!-- END QUOTE -->
 
