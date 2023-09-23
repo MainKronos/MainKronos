@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
+> None
+- 📌 [fix](https://github.com/MainKronos/Tesi/commit/055da34b5b0fb18142ddbb9a9c737a679421120f)
+- 📌 [sync](https://github.com/MainKronos/Tesi/commit/524eb8d5fefd32b7483c6cf172d7de989317a408)
+- 📌 [cache](https://github.com/MainKronos/Tesi/commit/d7ef03beb884b2a00125df6f0ddccb4f6a33238a)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -34,11 +39,6 @@
 - 📌 [up](https://github.com/MainKronos/Lab/commit/aedae7c3662a35708bfc8c02182103ee53498912)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/5540edb41b19c7fbd573f0ebf8d82edf58df6f5d)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/8d7f18c0d582769c5c85fad27fc3d3389d099161)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
-- 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
-- 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1695349258.0520165' width='100%'>
+<img align='center' src='res/quote.svg?1695435484.3489127' width='100%'>
 
 <!-- END QUOTE -->
 
