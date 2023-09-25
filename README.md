@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/a49e4d328e1d4e84dee210f52344e18a709c4266)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/aedae7c3662a35708bfc8c02182103ee53498912)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/5540edb41b19c7fbd573f0ebf8d82edf58df6f5d)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/a49e4d328e1d4e84dee210f52344e18a709c4266)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/aedae7c3662a35708bfc8c02182103ee53498912)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/5540edb41b19c7fbd573f0ebf8d82edf58df6f5d)
 ### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
 > None
 - 📌 [fix](https://github.com/MainKronos/Tesi/commit/055da34b5b0fb18142ddbb9a9c737a679421120f)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1695522084.2276003' width='100%'>
+<img align='center' src='res/quote.svg?1695608497.6817548' width='100%'>
 
 <!-- END QUOTE -->
 
