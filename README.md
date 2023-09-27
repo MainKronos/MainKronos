@@ -26,19 +26,19 @@
 
 ### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
 > Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/5517a2f81e12318e8be558079edd993b7ce93ef3)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/82ad74b4e52b01f06bec2c0c080a6044e7abe857)
 - 📌 [fix](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/ee9db98e52b4bc490bf653ed204b018adf81a694)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/dcb5c0a049a111837667bf106d7758b3aa19d4f1)
+### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
+> Progetto di Tesi
+- 📌 [fix](https://github.com/MainKronos/Tesi/commit/697284a86ba4dc294bc7ffaaeaca4c9f0842327b)
+- 📌 [fix](https://github.com/MainKronos/Tesi/commit/547fb35e17997a62dc12cdb5415945e9b959c8b0)
+- 📌 [sync](https://github.com/MainKronos/Tesi/commit/7855016254da8d713f4e2dbd41523587f9ff334b)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/a49e4d328e1d4e84dee210f52344e18a709c4266)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/aedae7c3662a35708bfc8c02182103ee53498912)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/5540edb41b19c7fbd573f0ebf8d82edf58df6f5d)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1695694863.5870311' width='100%'>
+<img align='center' src='res/quote.svg?1695781258.9169602' width='100%'>
 
 <!-- END QUOTE -->
 
