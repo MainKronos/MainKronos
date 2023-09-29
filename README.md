@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
+- 📌 [docs](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ca619621419868879d3fe7e7106b53c5f7edd72a)
+- 📌 [doc](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c42643fef30f68e0ccf579061e07108f6b0713c5)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -34,11 +39,6 @@
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/5517a2f81e12318e8be558079edd993b7ce93ef3)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/82ad74b4e52b01f06bec2c0c080a6044e7abe857)
 - 📌 [fix](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/ee9db98e52b4bc490bf653ed204b018adf81a694)
-### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
-> Progetto di Tesi
-- 📌 [fix](https://github.com/MainKronos/Tesi/commit/697284a86ba4dc294bc7ffaaeaca4c9f0842327b)
-- 📌 [fix](https://github.com/MainKronos/Tesi/commit/547fb35e17997a62dc12cdb5415945e9b959c8b0)
-- 📌 [sync](https://github.com/MainKronos/Tesi/commit/7855016254da8d713f4e2dbd41523587f9ff334b)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1695867625.2475307' width='100%'>
+<img align='center' src='res/quote.svg?1695954065.0267358' width='100%'>
 
 <!-- END QUOTE -->
 
