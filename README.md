@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
+> Progetto di Tesi
+- 📌 [clear](https://github.com/MainKronos/Tesi/commit/44580097e04a0ad746d43c217a6f4190858deb1a)
+- 📌 [fix](https://github.com/MainKronos/Tesi/commit/697284a86ba4dc294bc7ffaaeaca4c9f0842327b)
+- 📌 [fix](https://github.com/MainKronos/Tesi/commit/547fb35e17997a62dc12cdb5415945e9b959c8b0)
 ### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
 > Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/6f2f7f0dddc1de1d5977ec2931894321b082a2e1)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/681fffb1af9aa3111c144bedf57ee1faa0e9e501)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/00293c357c49e37b12c6bf8ea458ac66c98fda18)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/48867626406d549afc4faff77a8cd4a5e64d8ca3)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3c08211ec546a5e3114996d7d155157a154f1f23)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/d06ea417c97585701ad65dff7a2ec87813a856f5)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
-- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
-- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1696558894.4441903' width='100%'>
+<img align='center' src='res/quote.svg?1696645181.9307902' width='100%'>
 
 <!-- END QUOTE -->
 
