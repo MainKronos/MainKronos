@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
+- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 ### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
 > Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/4567a6ca99c8f0379a23c3ea2c45f8fdb14b45b6)
@@ -34,11 +39,6 @@
 - 📌 [up](https://github.com/MainKronos/Tesi/commit/6b80f2016b4768f9db939bd86fed8a7b4c4e0b93)
 - 📌 [up](https://github.com/MainKronos/Tesi/commit/7fbceb6bc230c5ae827b0bcffbb3c717c9b092b8)
 - 📌 [up](https://github.com/MainKronos/Tesi/commit/f7acf8fcd4c321319a94e33835592c7dafc5ba55)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
-- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
-- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1696818077.2034469' width='100%'>
+<img align='center' src='res/quote.svg?1696904477.6625304' width='100%'>
 
 <!-- END QUOTE -->
 
