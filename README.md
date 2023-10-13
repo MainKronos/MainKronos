@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/934ae7bfaa1182f57c097055bfd97f680c92863a)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/a49e4d328e1d4e84dee210f52344e18a709c4266)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/aedae7c3662a35708bfc8c02182103ee53498912)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
+- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
+- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 ### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
 > Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/1c1fb7cb315a0ed90505b025d5493d312fc3128c)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/25097e62df2b3791406f18756af0f9a173af11e6)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/4567a6ca99c8f0379a23c3ea2c45f8fdb14b45b6)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/ea6cd83496e1c6c8814f503055798eae3ff4f007)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1697077193.209092' width='100%'>
+<img align='center' src='res/quote.svg?1697163927.216249' width='100%'>
 
 <!-- END QUOTE -->
 
