@@ -26,19 +26,19 @@
 
 ### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
 > Progetto di Tesi
+- 📌 [up](https://github.com/MainKronos/Tesi/commit/bc5e81320b663152527acd85ac2a1a380aa6ba14)
+- 📌 [up](https://github.com/MainKronos/Tesi/commit/64a6168b334840efb96021d8b91e2b9d1e14420b)
 - 📌 [up](https://github.com/MainKronos/Tesi/commit/770a5a5afcd5023d674ed84c9fd445e1047e6f8d)
-- 📌 [up](https://github.com/MainKronos/Tesi/commit/0c6473ddba2b91fb717db479a9045774c5772aee)
-- 📌 [up](https://github.com/MainKronos/Tesi/commit/6b80f2016b4768f9db939bd86fed8a7b4c4e0b93)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
+- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
+- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/fd23afa55065640726613ad685304bd0435e3f25)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/934ae7bfaa1182f57c097055bfd97f680c92863a)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/a49e4d328e1d4e84dee210f52344e18a709c4266)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1698027751.184114' width='100%'>
+<img align='center' src='res/quote.svg?1698114110.0543506' width='100%'>
 
 <!-- END QUOTE -->
 
