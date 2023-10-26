@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
-> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/1c1fb7cb315a0ed90505b025d5493d312fc3128c)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
+> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/1c1fb7cb315a0ed90505b025d5493d312fc3128c)
 ### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
 > Progetto di Tesi
 - 📌 [up](https://github.com/MainKronos/Tesi/commit/bc5e81320b663152527acd85ac2a1a380aa6ba14)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1698200454.6168516' width='100%'>
+<img align='center' src='res/quote.svg?1698286792.7487555' width='100%'>
 
 <!-- END QUOTE -->
 
