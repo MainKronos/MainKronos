@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/ea26c7937d4d3ce386524fc6fb2b745e81d1f23e)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/fd23afa55065640726613ad685304bd0435e3f25)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/934ae7bfaa1182f57c097055bfd97f680c92863a)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -34,11 +39,6 @@
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/1c1fb7cb315a0ed90505b025d5493d312fc3128c)
-### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
-> Progetto di Tesi
-- 📌 [up](https://github.com/MainKronos/Tesi/commit/bc5e81320b663152527acd85ac2a1a380aa6ba14)
-- 📌 [up](https://github.com/MainKronos/Tesi/commit/64a6168b334840efb96021d8b91e2b9d1e14420b)
-- 📌 [up](https://github.com/MainKronos/Tesi/commit/770a5a5afcd5023d674ed84c9fd445e1047e6f8d)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1698373206.617609' width='100%'>
+<img align='center' src='res/quote.svg?1698459516.4812973' width='100%'>
 
 <!-- END QUOTE -->
 
