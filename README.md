@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/ea26c7937d4d3ce386524fc6fb2b745e81d1f23e)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/fd23afa55065640726613ad685304bd0435e3f25)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/934ae7bfaa1182f57c097055bfd97f680c92863a)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/ea26c7937d4d3ce386524fc6fb2b745e81d1f23e)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/fd23afa55065640726613ad685304bd0435e3f25)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/934ae7bfaa1182f57c097055bfd97f680c92863a)
 ### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
 > Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1698459516.4812973' width='100%'>
+<img align='center' src='res/quote.svg?1698546176.0973325' width='100%'>
 
 <!-- END QUOTE -->
 
