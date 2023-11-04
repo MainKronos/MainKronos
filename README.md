@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/e70de52db31259d53d17219e1ebacb771c9aabdb)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/70a2f84bd2b51023831279bfc86a84fb229a29d0)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/ea26c7937d4d3ce386524fc6fb2b745e81d1f23e)
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
-- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
-- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔒 [Tesi](https://github.com/MainKronos/Tesi)
+> Progetto di Tesi
+- 📌 [up](https://github.com/MainKronos/Tesi/commit/995d4444976f8dc6fc51ad34a9204796fc2d04e2)
+- 📌 [up](https://github.com/MainKronos/Tesi/commit/bc5e81320b663152527acd85ac2a1a380aa6ba14)
+- 📌 [up](https://github.com/MainKronos/Tesi/commit/64a6168b334840efb96021d8b91e2b9d1e14420b)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
 - 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
 - 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
+- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+- 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1698978165.8219872' width='100%'>
+<img align='center' src='res/quote.svg?1699064465.8972588' width='100%'>
 
 <!-- END QUOTE -->
 
