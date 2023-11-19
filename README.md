@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
-> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
-- 📌 [Aggiornamenti vari](https://github.com/MainKronos/IngegneriaInformatica/commit/0c33cd68e02d61e98aa8eff1004cbb3559ca7a2b)
-- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
-- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/1e870b740e59103502c31ba67ffe3e97cb13d571)
+- 📌 [1.6.4](https://github.com/MainKronos/AnimeWorld-API/commit/a13c571478720f5a924c3bfb32916c378bcd3ab9)
+- 📌 [Merge pull request #13 from ginop-1/master](https://github.com/MainKronos/AnimeWorld-API/commit/676a963e53163c1ba272a0f0ede9f1b107144532)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/7340eb524192e318e6fef8fd352ab56908773ffc)
-- 📌 [ok](https://github.com/MainKronos/Lab/commit/ad64d83d808d534af4bac92b17866af41dfd68fb)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/9f38febe55b64a4ff22c69a4b76edde23ef2de07)
+### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
+> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
+- 📌 [Aggiornamenti vari](https://github.com/MainKronos/IngegneriaInformatica/commit/0c33cd68e02d61e98aa8eff1004cbb3559ca7a2b)
+- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
+- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1700274428.2151845' width='100%'>
+<img align='center' src='res/quote.svg?1700360956.0198328' width='100%'>
 
 <!-- END QUOTE -->
 
