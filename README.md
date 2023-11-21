@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/8cff38f0266908bc729bf615f3501a03cb6e83e1)
+- 📌 [update](https://github.com/MainKronos/Curriculum/commit/99b0f682b5d1a3e3aa1add219ee1289027f6ffbb)
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/56d54ac263c47686126e032ebea853c0c487b5db)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -34,11 +39,6 @@
 - 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/1e870b740e59103502c31ba67ffe3e97cb13d571)
 - 📌 [1.6.4](https://github.com/MainKronos/AnimeWorld-API/commit/a13c571478720f5a924c3bfb32916c378bcd3ab9)
 - 📌 [Merge pull request #13 from ginop-1/master](https://github.com/MainKronos/AnimeWorld-API/commit/676a963e53163c1ba272a0f0ede9f1b107144532)
-### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
-> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
-- 📌 [Aggiornamenti vari](https://github.com/MainKronos/IngegneriaInformatica/commit/0c33cd68e02d61e98aa8eff1004cbb3559ca7a2b)
-- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
-- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1700447299.7304163' width='100%'>
+<img align='center' src='res/quote.svg?1700533842.0883715' width='100%'>
 
 <!-- END QUOTE -->
 
