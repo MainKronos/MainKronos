@@ -24,9 +24,6 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> Elkey Vulnerability Research
-- 📌 [setup](https://github.com/MainKronos/CoffeeKey/commit/25669cd9cec6ef3db9bf4cf4613e949df62fd52f)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
@@ -37,6 +34,9 @@
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
+> Elkey Vulnerability Research
+- 📌 [setup](https://github.com/MainKronos/CoffeeKey/commit/25669cd9cec6ef3db9bf4cf4613e949df62fd52f)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1700792711.6759179' width='100%'>
+<img align='center' src='res/quote.svg?1700878965.8502917' width='100%'>
 
 <!-- END QUOTE -->
 
