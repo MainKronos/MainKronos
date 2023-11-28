@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/37ce9828ca0dd52f58725104481cb6323bf2a4da)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/b84ae8d45584766017af53835f45fa2309e25e4d)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/7340eb524192e318e6fef8fd352ab56908773ffc)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -34,9 +39,6 @@
 - 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
 - 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
 - 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
-### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> Elkey Vulnerability Research
-- 📌 [setup](https://github.com/MainKronos/CoffeeKey/commit/25669cd9cec6ef3db9bf4cf4613e949df62fd52f)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1701052040.4016538' width='100%'>
+<img align='center' src='res/quote.svg?1701138520.9373639' width='100%'>
 
 <!-- END QUOTE -->
 
