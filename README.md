@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [update](https://github.com/MainKronos/Curriculum/commit/95e7626ea5cd9524d85f98256ce2933944e45676)
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/e0a9b4e4292cdf595d9aa6a50dc4c7a186586306)
-- 📌 [Merge branch 'main' of https://github.com/MainKronos/Curriculum](https://github.com/MainKronos/Curriculum/commit/8a977c15e7bef3addce06c6f99006c3940085167)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/04980d9e49bdd3bc56a2775c3f04858403dd1412)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/37ce9828ca0dd52f58725104481cb6323bf2a4da)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/b84ae8d45584766017af53835f45fa2309e25e4d)
+### 🔒 [Clockwork](https://github.com/MainKronos/Clockwork)
+> None
+- 📌 [key](https://github.com/MainKronos/Clockwork/commit/b093cbe8edbc51bda7e0b4a8d0e5cc53cd4d0efa)
+- 📌 [DECRYPT](https://github.com/MainKronos/Clockwork/commit/6c28c74b60dc9c3f119880ebfbb2298899e4ec9d)
+- 📌 [recursive_directory_iterator](https://github.com/MainKronos/Clockwork/commit/1a0b9e51954e7b0897b7ee8821514514cc1196eb)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [update](https://github.com/MainKronos/Curriculum/commit/95e7626ea5cd9524d85f98256ce2933944e45676)
+- 📌 [up](https://github.com/MainKronos/Curriculum/commit/e0a9b4e4292cdf595d9aa6a50dc4c7a186586306)
+- 📌 [Merge branch 'main' of https://github.com/MainKronos/Curriculum](https://github.com/MainKronos/Curriculum/commit/8a977c15e7bef3addce06c6f99006c3940085167)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1701224901.2855768' width='100%'>
+<img align='center' src='res/quote.svg?1701311280.1398923' width='100%'>
 
 <!-- END QUOTE -->
 
