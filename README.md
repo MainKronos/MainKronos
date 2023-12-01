@@ -26,9 +26,9 @@
 
 ### 🔒 [Clockwork](https://github.com/MainKronos/Clockwork)
 > None
-- 📌 [key](https://github.com/MainKronos/Clockwork/commit/b093cbe8edbc51bda7e0b4a8d0e5cc53cd4d0efa)
-- 📌 [DECRYPT](https://github.com/MainKronos/Clockwork/commit/6c28c74b60dc9c3f119880ebfbb2298899e4ec9d)
-- 📌 [recursive_directory_iterator](https://github.com/MainKronos/Clockwork/commit/1a0b9e51954e7b0897b7ee8821514514cc1196eb)
+- 📌 [fix](https://github.com/MainKronos/Clockwork/commit/29238535bd60652adc644e168e9da76357147e81)
+- 📌 [fix](https://github.com/MainKronos/Clockwork/commit/70878c64a7f101c97a595e9e3415d8b89888db97)
+- 📌 [dir](https://github.com/MainKronos/Clockwork/commit/2dd98877534cfdb05c0cc42ad458984f37aa84cf)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1701311280.1398923' width='100%'>
+<img align='center' src='res/quote.svg?1701397986.124334' width='100%'>
 
 <!-- END QUOTE -->
 
