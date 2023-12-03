@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Clockwork](https://github.com/MainKronos/Clockwork)
-> None
-- 📌 [ThreadPool](https://github.com/MainKronos/Clockwork/commit/3b05ebb7e159ce075f9c3086bbdc0f920681bf42)
-- 📌 [c conv](https://github.com/MainKronos/Clockwork/commit/744f09119c6ac8279e894279b3dfa707799a5fe2)
-- 📌 [formatting](https://github.com/MainKronos/Clockwork/commit/982d9671f41257506430edb93790a4e352a14262)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
+### 🔒 [Clockwork](https://github.com/MainKronos/Clockwork)
+> None
+- 📌 [ThreadPool](https://github.com/MainKronos/Clockwork/commit/3b05ebb7e159ce075f9c3086bbdc0f920681bf42)
+- 📌 [c conv](https://github.com/MainKronos/Clockwork/commit/744f09119c6ac8279e894279b3dfa707799a5fe2)
+- 📌 [formatting](https://github.com/MainKronos/Clockwork/commit/982d9671f41257506430edb93790a4e352a14262)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [update](https://github.com/MainKronos/Curriculum/commit/95e7626ea5cd9524d85f98256ce2933944e45676)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1701483795.8276203' width='100%'>
+<img align='center' src='res/quote.svg?1701570470.3523784' width='100%'>
 
 <!-- END QUOTE -->
 
