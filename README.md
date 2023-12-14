@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Clockwork](https://github.com/MainKronos/Clockwork)
+> None
+- 📌 [make](https://github.com/MainKronos/Clockwork/commit/c40669b55418ec93624c579a1199b6277e65dbe3)
+- 📌 [exe](https://github.com/MainKronos/Clockwork/commit/87337c977b58bab78ea9947ab85b5e225d66f7a0)
+- 📌 [crypto](https://github.com/MainKronos/Clockwork/commit/d712c454e37857049e549475db6ddefbfcc1d50d)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Clockwork](https://github.com/MainKronos/Clockwork)
-> None
-- 📌 [up](https://github.com/MainKronos/Clockwork/commit/f838720c6f5ba254101bcb6007adebcf28ba182f)
-- 📌 [fix](https://github.com/MainKronos/Clockwork/commit/4348bd3b536ebb21862110c3e83857defc1d612c)
-- 📌 [setup](https://github.com/MainKronos/Clockwork/commit/3d719ec2ea9b0bf362a1ad90a511bead5df4403e)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1702434509.730935' width='100%'>
+<img align='center' src='res/quote.svg?1702520814.4767246' width='100%'>
 
 <!-- END QUOTE -->
 
