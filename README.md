@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
+- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
+- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
@@ -34,11 +39,6 @@
 - 📌 [make](https://github.com/MainKronos/Clockwork/commit/c40669b55418ec93624c579a1199b6277e65dbe3)
 - 📌 [exe](https://github.com/MainKronos/Clockwork/commit/87337c977b58bab78ea9947ab85b5e225d66f7a0)
 - 📌 [crypto](https://github.com/MainKronos/Clockwork/commit/d712c454e37857049e549475db6ddefbfcc1d50d)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
-- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
-- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1703125595.0715895' width='100%'>
+<img align='center' src='res/quote.svg?1703211925.8207028' width='100%'>
 
 <!-- END QUOTE -->
 
