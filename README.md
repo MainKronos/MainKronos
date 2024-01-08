@@ -24,21 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
-- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
-- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/031b070baf9403942aede438829c02075e6c9008)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/04980d9e49bdd3bc56a2775c3f04858403dd1412)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/37ce9828ca0dd52f58725104481cb6323bf2a4da)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 - 📌 [Add files via upload](https://github.com/MainKronos/MainKronos/commit/28c195429e6a8c8f95cea6e34a6f6019dd008324)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [certificati](https://github.com/MainKronos/Curriculum/commit/df22f03c29d1e997dd8561a7d15deef5fab8a9e6)
-- 📌 [update](https://github.com/MainKronos/Curriculum/commit/95e7626ea5cd9524d85f98256ce2933944e45676)
-- 📌 [up](https://github.com/MainKronos/Curriculum/commit/e0a9b4e4292cdf595d9aa6a50dc4c7a186586306)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
+- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
+- 📌 [#108](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ef5c657eebd4c4ac75c3714f205e2516b08775f)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1704594678.414818' width='100%'>
+<img align='center' src='res/quote.svg?1704680946.7671778' width='100%'>
 
 <!-- END QUOTE -->
 
