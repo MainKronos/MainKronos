@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
+- 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
+- 📌 [certificati](https://github.com/MainKronos/Curriculum/commit/df22f03c29d1e997dd8561a7d15deef5fab8a9e6)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [2.0.1 (#137)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e273ac55fe76c91e3b9b64cb25e6f0a4d04a4dbd)
 - 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
 - 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/031b070baf9403942aede438829c02075e6c9008)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/04980d9e49bdd3bc56a2775c3f04858403dd1412)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/37ce9828ca0dd52f58725104481cb6323bf2a4da)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1707618162.1489122' width='100%'>
+<img align='center' src='res/quote.svg?1707704466.526316' width='100%'>
 
 <!-- END QUOTE -->
 
