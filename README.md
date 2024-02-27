@@ -16,7 +16,7 @@
 - 🎒 I'm a Computer Engineering Student
 - 📺 I loves anime and manga
 - 🦊 Gender: Male
-- ⏳ Age: 22 years old
+- ⏳ Age: 23 years old
 - ⚡ Fun fact: I don't have a girlfriend 🌧
 - 📫 How to reach me: <a href="https://discord.gg/XmTDXHJqxJ" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="discord logo" /></a> <a href="mailto:lorenzo.chesi@live.it"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="gmail logo"/></a>
 
@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/d42a99a885ef8e2a508f2edbb5221a833b2b05db)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/d97ed5ee3d949850582cb8ad8c922f8e00f17b67)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/031b070baf9403942aede438829c02075e6c9008)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/d42a99a885ef8e2a508f2edbb5221a833b2b05db)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/d97ed5ee3d949850582cb8ad8c922f8e00f17b67)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/031b070baf9403942aede438829c02075e6c9008)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1708914204.8382158' width='100%'>
+<img align='center' src='res/quote.svg?1709000337.7515054' width='100%'>
 
 <!-- END QUOTE -->
 
