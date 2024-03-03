@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
+> Elkey Vulnerability Research
+- 📌 [Add files via upload](https://github.com/MainKronos/CoffeeKey/commit/b54ca144912deb1062a355b0cec17b0c6bef6121)
+- 📌 [Add files via upload](https://github.com/MainKronos/CoffeeKey/commit/a51db2ab90a18669e54270fa032c464a34939f26)
+- 📌 [setup](https://github.com/MainKronos/CoffeeKey/commit/25669cd9cec6ef3db9bf4cf4613e949df62fd52f)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [up](https://github.com/MainKronos/Lab/commit/d42a99a885ef8e2a508f2edbb5221a833b2b05db)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/d97ed5ee3d949850582cb8ad8c922f8e00f17b67)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/031b070baf9403942aede438829c02075e6c9008)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
-- 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
-- 📌 [certificati](https://github.com/MainKronos/Curriculum/commit/df22f03c29d1e997dd8561a7d15deef5fab8a9e6)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1709345898.4548843' width='100%'>
+<img align='center' src='res/quote.svg?1709432505.1107037' width='100%'>
 
 <!-- END QUOTE -->
 
