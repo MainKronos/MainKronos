@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/c5a3f61b9164dd12fa898acdc356c22e138e04e0)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/d42a99a885ef8e2a508f2edbb5221a833b2b05db)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/d97ed5ee3d949850582cb8ad8c922f8e00f17b67)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [make](https://github.com/MainKronos/Clockwork/commit/c40669b55418ec93624c579a1199b6277e65dbe3)
 - 📌 [exe](https://github.com/MainKronos/Clockwork/commit/87337c977b58bab78ea9947ab85b5e225d66f7a0)
 - 📌 [crypto](https://github.com/MainKronos/Clockwork/commit/d712c454e37857049e549475db6ddefbfcc1d50d)
-### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> Elkey Vulnerability Research
-- 📌 [Add files via upload](https://github.com/MainKronos/CoffeeKey/commit/b54ca144912deb1062a355b0cec17b0c6bef6121)
-- 📌 [Add files via upload](https://github.com/MainKronos/CoffeeKey/commit/a51db2ab90a18669e54270fa032c464a34939f26)
-- 📌 [setup](https://github.com/MainKronos/CoffeeKey/commit/25669cd9cec6ef3db9bf4cf4613e949df62fd52f)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1709864510.048651' width='100%'>
+<img align='center' src='res/quote.svg?1709950647.4887996' width='100%'>
 
 <!-- END QUOTE -->
 
