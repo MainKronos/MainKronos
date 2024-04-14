@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
+> Elkey Vulnerability Research
+- 📌 [-_-](https://github.com/MainKronos/CoffeeKey/commit/59ee3166bd7c8658ae6dfbb8783c882fb7e8b4cf)
+- 📌 [-_-](https://github.com/MainKronos/CoffeeKey/commit/10af67a43e72146075e21c4786b809fcc3b8926b)
+- 📌 [Add files via upload](https://github.com/MainKronos/CoffeeKey/commit/b54ca144912deb1062a355b0cec17b0c6bef6121)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [up](https://github.com/MainKronos/Lab/commit/eebc2b06206c426345b5abba349b2db8731ee918)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/c5a3f61b9164dd12fa898acdc356c22e138e04e0)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/d42a99a885ef8e2a508f2edbb5221a833b2b05db)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [2.0.1 (#137)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e273ac55fe76c91e3b9b64cb25e6f0a4d04a4dbd)
-- 📌 [Hacktoberfest 2023](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3dd1c37b6ac0573f5f96e2290d126b8964b8d01d)
-- 📌 [2.0.0 (#120)](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/6ae72ce0dde0ea73877c0ba7560f87840058af7b)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1712974434.024622' width='100%'>
+<img align='center' src='res/quote.svg?1713064576.5073647' width='100%'>
 
 <!-- END QUOTE -->
 
