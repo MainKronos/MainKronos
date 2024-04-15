@@ -25,10 +25,8 @@
 <!-- BEGIN ACTIVITY -->
 
 ### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> Elkey Vulnerability Research
-- 📌 [-_-](https://github.com/MainKronos/CoffeeKey/commit/59ee3166bd7c8658ae6dfbb8783c882fb7e8b4cf)
-- 📌 [-_-](https://github.com/MainKronos/CoffeeKey/commit/10af67a43e72146075e21c4786b809fcc3b8926b)
-- 📌 [Add files via upload](https://github.com/MainKronos/CoffeeKey/commit/b54ca144912deb1062a355b0cec17b0c6bef6121)
+> Mifare Vulnerability Research
+- 📌 [Initial commit](https://github.com/MainKronos/CoffeeKey/commit/a0436c21241580b0781b3c05b85dab5679121202)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -88,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1713064576.5073647' width='100%'>
+<img align='center' src='res/quote.svg?1713153970.0920067' width='100%'>
 
 <!-- END QUOTE -->
 
