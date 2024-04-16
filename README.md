@@ -24,14 +24,14 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
-> Mifare Vulnerability Research
-- 📌 [Initial commit](https://github.com/MainKronos/CoffeeKey/commit/a0436c21241580b0781b3c05b85dab5679121202)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
+> Mifare Vulnerability Research
+- 📌 [Initial commit](https://github.com/MainKronos/CoffeeKey/commit/a0436c21241580b0781b3c05b85dab5679121202)
 ### 🔒 [Lab](https://github.com/MainKronos/Lab)
 > Hack The Box Writeups
 - 📌 [up](https://github.com/MainKronos/Lab/commit/eebc2b06206c426345b5abba349b2db8731ee918)
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1713153970.0920067' width='100%'>
+<img align='center' src='res/quote.svg?1713234140.7352834' width='100%'>
 
 <!-- END QUOTE -->
 
