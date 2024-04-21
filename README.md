@@ -24,6 +24,10 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [WarShips](https://github.com/MainKronos/WarShips)
+> None
+- 📌 [Update](https://github.com/MainKronos/WarShips/commit/34ad07dd3c4da3907519a8319f7c3d57f17ec0c7)
+- 📌 [Initial commit](https://github.com/MainKronos/WarShips/commit/0f590f0bd68d0146553735d0f519b29588602ccf)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -32,11 +36,6 @@
 ### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
 > Mifare Vulnerability Research
 - 📌 [Initial commit](https://github.com/MainKronos/CoffeeKey/commit/a0436c21241580b0781b3c05b85dab5679121202)
-### 🔒 [Lab](https://github.com/MainKronos/Lab)
-> Hack The Box Writeups
-- 📌 [up](https://github.com/MainKronos/Lab/commit/eebc2b06206c426345b5abba349b2db8731ee918)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/c5a3f61b9164dd12fa898acdc356c22e138e04e0)
-- 📌 [up](https://github.com/MainKronos/Lab/commit/d42a99a885ef8e2a508f2edbb5221a833b2b05db)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +85,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1713579698.4240878' width='100%'>
+<img align='center' src='res/quote.svg?1713666348.2611344' width='100%'>
 
 <!-- END QUOTE -->
 
