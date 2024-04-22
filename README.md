@@ -24,15 +24,15 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [WarShips](https://github.com/MainKronos/WarShips)
-> None
-- 📌 [Update](https://github.com/MainKronos/WarShips/commit/34ad07dd3c4da3907519a8319f7c3d57f17ec0c7)
-- 📌 [Initial commit](https://github.com/MainKronos/WarShips/commit/0f590f0bd68d0146553735d0f519b29588602ccf)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [WarShips](https://github.com/MainKronos/WarShips)
+> None
+- 📌 [Update](https://github.com/MainKronos/WarShips/commit/34ad07dd3c4da3907519a8319f7c3d57f17ec0c7)
+- 📌 [Initial commit](https://github.com/MainKronos/WarShips/commit/0f590f0bd68d0146553735d0f519b29588602ccf)
 ### 🔓 [CoffeeKey](https://github.com/MainKronos/CoffeeKey)
 > Mifare Vulnerability Research
 - 📌 [Initial commit](https://github.com/MainKronos/CoffeeKey/commit/a0436c21241580b0781b3c05b85dab5679121202)
@@ -85,7 +85,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1713666348.2611344' width='100%'>
+<img align='center' src='res/quote.svg?1713752745.1042504' width='100%'>
 
 <!-- END QUOTE -->
 
