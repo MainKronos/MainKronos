@@ -24,14 +24,14 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
-> Static Web Server
-- 📌 [Initial commit](https://github.com/MainKronos/HttpServer/commit/217348347020ed52236b7167d5681316d9deb720)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
+> Static Web Server
+- 📌 [Initial commit](https://github.com/MainKronos/HttpServer/commit/217348347020ed52236b7167d5681316d9deb720)
 ### 🔓 [WarShips](https://github.com/MainKronos/WarShips)
 > None
 - 📌 [Update](https://github.com/MainKronos/WarShips/commit/34ad07dd3c4da3907519a8319f7c3d57f17ec0c7)
@@ -85,7 +85,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1714962549.0681262' width='100%'>
+<img align='center' src='res/quote.svg?1715049116.9703846' width='100%'>
 
 <!-- END QUOTE -->
 
