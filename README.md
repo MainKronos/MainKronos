@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Add files via upload](https://github.com/MainKronos/Curriculum/commit/f6e50011f85692ce55dbf30889d70b9c7d418c12)
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
+- 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,10 +39,6 @@
 - 📌 [update](https://github.com/MainKronos/WarShips/commit/b01b17aa7fab287de6d0c686e6bf3e15be0eb22a)
 - 📌 [Update](https://github.com/MainKronos/WarShips/commit/34ad07dd3c4da3907519a8319f7c3d57f17ec0c7)
 - 📌 [Initial commit](https://github.com/MainKronos/WarShips/commit/0f590f0bd68d0146553735d0f519b29588602ccf)
-### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
-> Static Web Server
-- 📌 [Add files via upload](https://github.com/MainKronos/HttpServer/commit/889780a924eaa8ea619bd1b8cfe927a0cab3cc87)
-- 📌 [Initial commit](https://github.com/MainKronos/HttpServer/commit/217348347020ed52236b7167d5681316d9deb720)
 
 <!-- END ACTIVITY -->
 
@@ -87,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1715308259.928612' width='100%'>
+<img align='center' src='res/quote.svg?1715394271.2428768' width='100%'>
 
 <!-- END QUOTE -->
 
