@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Add files via upload](https://github.com/MainKronos/Curriculum/commit/f6e50011f85692ce55dbf30889d70b9c7d418c12)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
-- 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Add files via upload](https://github.com/MainKronos/Curriculum/commit/f6e50011f85692ce55dbf30889d70b9c7d418c12)
+- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
+- 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
 ### 🔓 [WarShips](https://github.com/MainKronos/WarShips)
 > None
 - 📌 [update](https://github.com/MainKronos/WarShips/commit/b01b17aa7fab287de6d0c686e6bf3e15be0eb22a)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1715394271.2428768' width='100%'>
+<img align='center' src='res/quote.svg?1715480959.2643976' width='100%'>
 
 <!-- END QUOTE -->
 
