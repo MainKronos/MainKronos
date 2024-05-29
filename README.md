@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [WebProxy](https://github.com/MainKronos/WebProxy)
+> None
+- 📌 [fix](https://github.com/MainKronos/WebProxy/commit/5c749830a6ae2c4d64dd39221c5fb009ae185107)
+- 📌 [up](https://github.com/MainKronos/WebProxy/commit/24b6c506899b56e1754e7a858a1d47191324f14a)
+- 📌 [Initial commit](https://github.com/MainKronos/WebProxy/commit/f63f06e25b673a8e423603890fb5d5e6c8ee9f2a)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [Add files via upload](https://github.com/MainKronos/Curriculum/commit/f6e50011f85692ce55dbf30889d70b9c7d418c12)
 - 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
 - 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
-### 🔓 [WarShips](https://github.com/MainKronos/WarShips)
-> None
-- 📌 [update](https://github.com/MainKronos/WarShips/commit/b01b17aa7fab287de6d0c686e6bf3e15be0eb22a)
-- 📌 [Update](https://github.com/MainKronos/WarShips/commit/34ad07dd3c4da3907519a8319f7c3d57f17ec0c7)
-- 📌 [Initial commit](https://github.com/MainKronos/WarShips/commit/0f590f0bd68d0146553735d0f519b29588602ccf)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1716863424.451369' width='100%'>
+<img align='center' src='res/quote.svg?1716949938.8715193' width='100%'>
 
 <!-- END QUOTE -->
 
