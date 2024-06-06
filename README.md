@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
+> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [Merge pull request #1 from SoulThy/patch-1](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/911e76ce6fd1d69075ab7f77a831ca436896432a)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [fix](https://github.com/MainKronos/WebProxy/commit/5c749830a6ae2c4d64dd39221c5fb009ae185107)
 - 📌 [up](https://github.com/MainKronos/WebProxy/commit/24b6c506899b56e1754e7a858a1d47191324f14a)
 - 📌 [Initial commit](https://github.com/MainKronos/WebProxy/commit/f63f06e25b673a8e423603890fb5d5e6c8ee9f2a)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Add files via upload](https://github.com/MainKronos/Curriculum/commit/f6e50011f85692ce55dbf30889d70b9c7d418c12)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
-- 📌 [Alten](https://github.com/MainKronos/Curriculum/commit/525843d201bd600e6e3ba0230ffec254c2b748bd)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1717554688.7920847' width='100%'>
+<img align='center' src='res/quote.svg?1717641056.6480098' width='100%'>
 
 <!-- END QUOTE -->
 
