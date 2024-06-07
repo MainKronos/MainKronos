@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
-> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [Merge pull request #1 from SoulThy/patch-1](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/911e76ce6fd1d69075ab7f77a831ca436896432a)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
+> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
+- 📌 [Merge pull request #1 from SoulThy/patch-1](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/911e76ce6fd1d69075ab7f77a831ca436896432a)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
+- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
 ### 🔓 [WebProxy](https://github.com/MainKronos/WebProxy)
 > None
 - 📌 [fix](https://github.com/MainKronos/WebProxy/commit/5c749830a6ae2c4d64dd39221c5fb009ae185107)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1717641056.6480098' width='100%'>
+<img align='center' src='res/quote.svg?1717727614.3854368' width='100%'>
 
 <!-- END QUOTE -->
 
