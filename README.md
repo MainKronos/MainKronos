@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Lab](https://github.com/MainKronos/Lab)
+> Hack The Box Writeups
+- 📌 [up](https://github.com/MainKronos/Lab/commit/6747230698bf9fc13274df378a76e7fd1f7e5adb)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/eebc2b06206c426345b5abba349b2db8731ee918)
+- 📌 [up](https://github.com/MainKronos/Lab/commit/c5a3f61b9164dd12fa898acdc356c22e138e04e0)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [Merge pull request #1 from SoulThy/patch-1](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/911e76ce6fd1d69075ab7f77a831ca436896432a)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
 - 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
-### 🔓 [WebProxy](https://github.com/MainKronos/WebProxy)
-> None
-- 📌 [fix](https://github.com/MainKronos/WebProxy/commit/5c749830a6ae2c4d64dd39221c5fb009ae185107)
-- 📌 [up](https://github.com/MainKronos/WebProxy/commit/24b6c506899b56e1754e7a858a1d47191324f14a)
-- 📌 [Initial commit](https://github.com/MainKronos/WebProxy/commit/f63f06e25b673a8e423603890fb5d5e6c8ee9f2a)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1717986854.22393' width='100%'>
+<img align='center' src='res/quote.svg?1718073161.7823713' width='100%'>
 
 <!-- END QUOTE -->
 
