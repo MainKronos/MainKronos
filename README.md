@@ -24,6 +24,10 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [WebProxy](https://github.com/MainKronos/WebProxy)
+> None
+- 📌 [Update](https://github.com/MainKronos/WebProxy/commit/5fa17003a2fe11bbe0687fcf1364370b3cf8ee75)
+- 📌 [first commit](https://github.com/MainKronos/WebProxy/commit/6095dd27de5e8361310afa737456d177e449bcfd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +38,6 @@
 - 📌 [up](https://github.com/MainKronos/Lab/commit/6747230698bf9fc13274df378a76e7fd1f7e5adb)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/eebc2b06206c426345b5abba349b2db8731ee918)
 - 📌 [up](https://github.com/MainKronos/Lab/commit/c5a3f61b9164dd12fa898acdc356c22e138e04e0)
-### 🔓 [Comunicazioni-Numeriche](https://github.com/MainKronos/Comunicazioni-Numeriche)
-> Apppunti per l'esame di Comunicazioni Numeriche (anno 2022/23) del corso di Ingegneria Informatica (Triennale) dell'università di Pisa (classe L-8).
-- 📌 [Merge pull request #1 from SoulThy/patch-1](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/911e76ce6fd1d69075ab7f77a831ca436896432a)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/3054efae45c23ff7cdc215dd5b8048fc5290d4a2)
-- 📌 [up](https://github.com/MainKronos/Comunicazioni-Numeriche/commit/bdcf249e39de56a48c919236b9f47432af6a0a58)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1719110020.9389107' width='100%'>
+<img align='center' src='res/quote.svg?1719196420.0093744' width='100%'>
 
 <!-- END QUOTE -->
 
