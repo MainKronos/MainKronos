@@ -24,16 +24,14 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Update experiences.html](https://github.com/MainKronos/Curriculum/commit/2d178cbfd342d83c9bf13bb017dd3658989b8c0a)
-- 📌 [Add files via upload](https://github.com/MainKronos/Curriculum/commit/f6e50011f85692ce55dbf30889d70b9c7d418c12)
-- 📌 [fix](https://github.com/MainKronos/Curriculum/commit/d302c8033332e67722c0e48b4337a4677a1d8750)
 ### 🔓 [WebProxy](https://github.com/MainKronos/WebProxy)
 > None
 - 📌 [Update](https://github.com/MainKronos/WebProxy/commit/9b6627397b74a3efb337e5f43ec685fb76afb6de)
@@ -88,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1720924827.8568714' width='100%'>
+<img align='center' src='res/quote.svg?1721011057.2487683' width='100%'>
 
 <!-- END QUOTE -->
 
