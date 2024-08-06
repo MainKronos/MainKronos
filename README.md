@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
+> Micro http library written in c [UNIX]
+- 📌 [Update](https://github.com/MainKronos/HttpServer/commit/72f1f8f829dad88f67f8fa49b48b3c5d80bc94cb)
+- 📌 [note](https://github.com/MainKronos/HttpServer/commit/422f8909b638d3059fa8f97a8507ea342d063946)
+- 📌 [update](https://github.com/MainKronos/HttpServer/commit/d5b762b8748a9e2055a10975ca2d02d600233d3e)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -32,11 +37,6 @@
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
-### 🔓 [WebProxy](https://github.com/MainKronos/WebProxy)
-> None
-- 📌 [Update](https://github.com/MainKronos/WebProxy/commit/9b6627397b74a3efb337e5f43ec685fb76afb6de)
-- 📌 [Update](https://github.com/MainKronos/WebProxy/commit/5fa17003a2fe11bbe0687fcf1364370b3cf8ee75)
-- 📌 [first commit](https://github.com/MainKronos/WebProxy/commit/6095dd27de5e8361310afa737456d177e449bcfd)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1722825421.6990907' width='100%'>
+<img align='center' src='res/quote.svg?1722911756.2988863' width='100%'>
 
 <!-- END QUOTE -->
 
