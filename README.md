@@ -26,9 +26,9 @@
 
 ### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
 > Micro http library written in c [UNIX]
+- 📌 [update](https://github.com/MainKronos/HttpServer/commit/0df6b64ce3fec607e5aae084a8626a07f9dbb570)
+- 📌 [http/1.0](https://github.com/MainKronos/HttpServer/commit/71f8fb3208dee39f76fa5ed16f3552f0b18a03d8)
 - 📌 [I/O multiplexing](https://github.com/MainKronos/HttpServer/commit/98586a0544fc40320060f2fe7118d1535a59f0d0)
-- 📌 [workers](https://github.com/MainKronos/HttpServer/commit/336fd252bc4888522ff25e1fe9f989e07183f6b3)
-- 📌 [pthread_cleanup](https://github.com/MainKronos/HttpServer/commit/0d852a8643c701a3d39cb8c1bf2a9074f13b3db7)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1723516678.7599378' width='100%'>
+<img align='center' src='res/quote.svg?1723603015.7798285' width='100%'>
 
 <!-- END QUOTE -->
 
