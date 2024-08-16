@@ -26,9 +26,9 @@
 
 ### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
 > Micro http library written in c [UNIX]
+- 📌 [send_http_response utility function](https://github.com/MainKronos/HttpServer/commit/837cd46f25f9ad3bf5838b6136a5faa0946fea77)
 - 📌 [auto test](https://github.com/MainKronos/HttpServer/commit/86f16d0e4149c01fc9bbcd4a38c47b3c389d8b67)
 - 📌 [test](https://github.com/MainKronos/HttpServer/commit/1d9fdde225fd9b49511bae773fb7872262cd4c56)
-- 📌 [update](https://github.com/MainKronos/HttpServer/commit/0df6b64ce3fec607e5aae084a8626a07f9dbb570)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1723689227.5146475' width='100%'>
+<img align='center' src='res/quote.svg?1723775777.7838204' width='100%'>
 
 <!-- END QUOTE -->
 
