@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
-> Micro http library written in c [UNIX]
-- 📌 [doxygen](https://github.com/MainKronos/HttpServer/commit/5951c30e00628e7801f02de29a102cbf526a65a0)
-- 📌 [makefile](https://github.com/MainKronos/HttpServer/commit/9b9c05b739a2c670a36a06ce1757a3a250eb033a)
-- 📌 [privatesection](https://github.com/MainKronos/HttpServer/commit/2e23ec988c949b1d3d989aa91ac0ed80000d931c)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
+> Micro http library written in c [UNIX]
+- 📌 [doxygen](https://github.com/MainKronos/HttpServer/commit/5951c30e00628e7801f02de29a102cbf526a65a0)
+- 📌 [makefile](https://github.com/MainKronos/HttpServer/commit/9b9c05b739a2c670a36a06ce1757a3a250eb033a)
+- 📌 [privatesection](https://github.com/MainKronos/HttpServer/commit/2e23ec988c949b1d3d989aa91ac0ed80000d931c)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1724553608.9553878' width='100%'>
+<img align='center' src='res/quote.svg?1724639853.4872086' width='100%'>
 
 <!-- END QUOTE -->
 
