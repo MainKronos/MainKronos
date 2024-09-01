@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #145 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7f3bb90e79ab3e8e7382cd3bc6ca4422a08f20ae)
+- 📌 [Merge branch 'main' into dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ebf9113aabc45e0cdce51145e6caecfbb07b8747)
+- 📌 [fix start.c](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/39fd00c307c9c8cdd9b41ef98a7791696e86b4dd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,9 +39,6 @@
 - 📌 [url_callback](https://github.com/MainKronos/HttpServer/commit/c9bb25d8b84c6799f531b295cb8197de938f6d4e)
 - 📌 [http_request_get_url](https://github.com/MainKronos/HttpServer/commit/844387b5325e539eebb9be5011613ef245008851)
 - 📌 [update](https://github.com/MainKronos/HttpServer/commit/87900aee5a8c860aba5c85e3e0ea4047e1e1a020)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1725072005.2347968' width='100%'>
+<img align='center' src='res/quote.svg?1725159181.7551043' width='100%'>
 
 <!-- END QUOTE -->
 
