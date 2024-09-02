@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Merge pull request #145 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7f3bb90e79ab3e8e7382cd3bc6ca4422a08f20ae)
-- 📌 [Merge branch 'main' into dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ebf9113aabc45e0cdce51145e6caecfbb07b8747)
-- 📌 [fix start.c](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/39fd00c307c9c8cdd9b41ef98a7791696e86b4dd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #145 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7f3bb90e79ab3e8e7382cd3bc6ca4422a08f20ae)
+- 📌 [Merge branch 'main' into dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ebf9113aabc45e0cdce51145e6caecfbb07b8747)
+- 📌 [fix start.c](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/39fd00c307c9c8cdd9b41ef98a7791696e86b4dd)
 ### 🔓 [HttpServer](https://github.com/MainKronos/HttpServer)
 > Micro http library written in c [UNIX]
 - 📌 [url_callback](https://github.com/MainKronos/HttpServer/commit/c9bb25d8b84c6799f531b295cb8197de938f6d4e)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1725159181.7551043' width='100%'>
+<img align='center' src='res/quote.svg?1725245056.0361412' width='100%'>
 
 <!-- END QUOTE -->
 
