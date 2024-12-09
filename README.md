@@ -24,15 +24,15 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Leonardo S.p.A.](https://github.com/MainKronos/Curriculum/commit/b8714ffe0b79063e46173128cf292d56ffd3a7b2)
-- 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Leonardo S.p.A.](https://github.com/MainKronos/Curriculum/commit/b8714ffe0b79063e46173128cf292d56ffd3a7b2)
+- 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Merge pull request #145 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7f3bb90e79ab3e8e7382cd3bc6ca4422a08f20ae)
@@ -87,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1733627306.1334643' width='100%'>
+<img align='center' src='res/quote.svg?1733713577.8149292' width='100%'>
 
 <!-- END QUOTE -->
 
