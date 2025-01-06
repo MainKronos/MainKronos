@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [Update python-publish.yml](https://github.com/MainKronos/AnimeWorld-API/commit/090030f0f827489e4a25461f5c02a8ecc9024fd6)
+- 📌 [1.6.5](https://github.com/MainKronos/AnimeWorld-API/commit/43830bbabfb83c683fe50c6f383b2272ad374489)
+- 📌 [docs](https://github.com/MainKronos/AnimeWorld-API/commit/1e870b740e59103502c31ba67ffe3e97cb13d571)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -33,11 +38,6 @@
 > Curriculum Vitae
 - 📌 [Leonardo S.p.A.](https://github.com/MainKronos/Curriculum/commit/b8714ffe0b79063e46173128cf292d56ffd3a7b2)
 - 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Merge pull request #145 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7f3bb90e79ab3e8e7382cd3bc6ca4422a08f20ae)
-- 📌 [Merge branch 'main' into dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/ebf9113aabc45e0cdce51145e6caecfbb07b8747)
-- 📌 [fix start.c](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/39fd00c307c9c8cdd9b41ef98a7791696e86b4dd)
 
 <!-- END ACTIVITY -->
 
@@ -87,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1736045671.084297' width='100%'>
+<img align='center' src='res/quote.svg?1736132047.9398885' width='100%'>
 
 <!-- END QUOTE -->
 
