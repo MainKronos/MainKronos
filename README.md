@@ -24,20 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge branch 'main' of https://github.com/MainKronos/Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/17d90efa3ffba0322131b15b17db9406e394fa09)
+- 📌 [Aggiornati i link nelle documentazioni e corretti i percorsi dei file di configurazione](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/b796359cfb45b0b24563b726133f5a81aa585fc0)
+- 📌 [Merge pull request #152 from RizieroG/main](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c350dfebf26347e7c368cfbd293710d4da408158)
+### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
+> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
+- 📌 [Aggiornamenti vari](https://github.com/MainKronos/IngegneriaInformatica/commit/0c33cd68e02d61e98aa8eff1004cbb3559ca7a2b)
+- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
+- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [Update python-publish.yml](https://github.com/MainKronos/AnimeWorld-API/commit/3791006042a3a6dae1531a3318bad39c00beb004)
-- 📌 [setuptools](https://github.com/MainKronos/AnimeWorld-API/commit/6b20b0e5ce79298a8714630affcc1db54a7f533a)
-- 📌 [workflows](https://github.com/MainKronos/AnimeWorld-API/commit/045f0cda2b5f3eba7c1eabb46a0dda41500d0f9a)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Leonardo S.p.A.](https://github.com/MainKronos/Curriculum/commit/b8714ffe0b79063e46173128cf292d56ffd3a7b2)
-- 📌 [Initial Commit](https://github.com/MainKronos/Curriculum/commit/1e1d841827e3d02a83af58363abb1772155262bd)
 
 <!-- END ACTIVITY -->
 
@@ -87,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1738032217.5441554' width='100%'>
+<img align='center' src='res/quote.svg?1738118551.6829019' width='100%'>
 
 <!-- END QUOTE -->
 
