@@ -24,6 +24,9 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [MainDjango](https://github.com/MainKronos/MainDjango)
+> None
+- 📌 [Initial commit](https://github.com/MainKronos/MainDjango/commit/1799ef6d65344e183377782fbae3655fca28cf60)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +37,6 @@
 - 📌 [Merge branch 'main' of https://github.com/MainKronos/Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/17d90efa3ffba0322131b15b17db9406e394fa09)
 - 📌 [Aggiornati i link nelle documentazioni e corretti i percorsi dei file di configurazione](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/b796359cfb45b0b24563b726133f5a81aa585fc0)
 - 📌 [Merge pull request #152 from RizieroG/main](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/c350dfebf26347e7c368cfbd293710d4da408158)
-### 🔓 [IngegneriaInformatica](https://github.com/MainKronos/IngegneriaInformatica)
-> Materiale didattico per gli studenti di Ingegneria Informatica presso l'università di Pisa (classe L-8).
-- 📌 [Aggiornamenti vari](https://github.com/MainKronos/IngegneriaInformatica/commit/0c33cd68e02d61e98aa8eff1004cbb3559ca7a2b)
-- 📌 [Aggiunta una lista di progetti di Reti Informatiche trovati su Github](https://github.com/MainKronos/IngegneriaInformatica/commit/c799be84af2003a27aadf518ad4f34fa5ebe5401)
-- 📌 [Correzione piccoli errori](https://github.com/MainKronos/IngegneriaInformatica/commit/19e072de7ff78a3ea4e82cba663c5990c6e1d7a4)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1738378127.595328' width='100%'>
+<img align='center' src='res/quote.svg?1738464447.6260004' width='100%'>
 
 <!-- END QUOTE -->
 
