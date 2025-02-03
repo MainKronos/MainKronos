@@ -24,14 +24,14 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [MainDjango](https://github.com/MainKronos/MainDjango)
-> None
-- 📌 [Initial commit](https://github.com/MainKronos/MainDjango/commit/1799ef6d65344e183377782fbae3655fca28cf60)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [MainDjango](https://github.com/MainKronos/MainDjango)
+> None
+- 📌 [Initial commit](https://github.com/MainKronos/MainDjango/commit/1799ef6d65344e183377782fbae3655fca28cf60)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Merge branch 'main' of https://github.com/MainKronos/Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/17d90efa3ffba0322131b15b17db9406e394fa09)
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1738464447.6260004' width='100%'>
+<img align='center' src='res/quote.svg?1738550780.574705' width='100%'>
 
 <!-- END QUOTE -->
 
