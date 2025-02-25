@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [aggiornamento delle azioni GitHub a versioni più recenti](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/5a2dd08f000e80dba010cbf568dd2eb9d014ba9f)
-- 📌 [Merge branch 'main' of https://github.com/MainKronos/Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/fd457c1c084669d277e065a7def04cda9171cca6)
-- 📌 [aggiornamento della documentazione per Hacktoberfest](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7175c90eaff31557fd87a9ec7bbaeb90e0c2b4bd)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [aggiornamento delle azioni GitHub a versioni più recenti](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/5a2dd08f000e80dba010cbf568dd2eb9d014ba9f)
+- 📌 [Merge branch 'main' of https://github.com/MainKronos/Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/fd457c1c084669d277e065a7def04cda9171cca6)
+- 📌 [aggiornamento della documentazione per Hacktoberfest](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7175c90eaff31557fd87a9ec7bbaeb90e0c2b4bd)
 ### 🔒 [MainDjango](https://github.com/MainKronos/MainDjango)
 > None
 - 📌 [base](https://github.com/MainKronos/MainDjango/commit/fb91024341a2d1f7d5663cd328ea6222fa60f4af)
@@ -87,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1740365649.5800164' width='100%'>
+<img align='center' src='res/quote.svg?1740451982.7989728' width='100%'>
 
 <!-- END QUOTE -->
 
