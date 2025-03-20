@@ -24,20 +24,21 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
-> My GitHub Profile README.
-- 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
-- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
-- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [aggiornamento delle azioni GitHub a versioni più recenti](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/5a2dd08f000e80dba010cbf568dd2eb9d014ba9f)
 - 📌 [Merge branch 'main' of https://github.com/MainKronos/Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/fd457c1c084669d277e065a7def04cda9171cca6)
 - 📌 [aggiornamento della documentazione per Hacktoberfest](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/7175c90eaff31557fd87a9ec7bbaeb90e0c2b4bd)
-### 🔒 [MainDjango](https://github.com/MainKronos/MainDjango)
-> None
-- 📌 [base](https://github.com/MainKronos/MainDjango/commit/fb91024341a2d1f7d5663cd328ea6222fa60f4af)
-- 📌 [Initial commit](https://github.com/MainKronos/MainDjango/commit/1799ef6d65344e183377782fbae3655fca28cf60)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [Python 3.11](https://github.com/MainKronos/AnimeWorld-API/commit/af2a01729d7cd8e5004e9153b9e5ab3fc773a17d)
+- 📌 [Fix base_url](https://github.com/MainKronos/AnimeWorld-API/commit/ab0ddbc226eaf8a30677d787a157d448ddfd64ba)
+- 📌 [Update python-publish.yml](https://github.com/MainKronos/AnimeWorld-API/commit/3791006042a3a6dae1531a3318bad39c00beb004)
+### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
+> My GitHub Profile README.
+- 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
+- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
+- 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
 
 <!-- END ACTIVITY -->
 
@@ -87,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1742353079.2685435' width='100%'>
+<img align='center' src='res/quote.svg?1742439401.3188314' width='100%'>
 
 <!-- END QUOTE -->
 
