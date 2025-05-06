@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
-- 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
-- 📌 [Aggiungi curl al runtime del container](https://github.com/MainKronos/Curriculum/commit/4781ba5db5cdc8a9713be010fa491fdabd0b11ce)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
+- 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
+- 📌 [Aggiungi curl al runtime del container](https://github.com/MainKronos/Curriculum/commit/4781ba5db5cdc8a9713be010fa491fdabd0b11ce)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1746414820.5404105' width='100%'>
+<img align='center' src='res/quote.svg?1746500963.7387679' width='100%'>
 
 <!-- END QUOTE -->
 
