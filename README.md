@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [setuptools](https://github.com/MainKronos/AnimeWorld-API/commit/015de2dd1ab19fad38463729b27558007c666678)
+- 📌 [#25](https://github.com/MainKronos/AnimeWorld-API/commit/a391c525843b8410e38ffa5c6a043556a895b133)
+- 📌 [Python 3.11](https://github.com/MainKronos/AnimeWorld-API/commit/af2a01729d7cd8e5004e9153b9e5ab3fc773a17d)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
 - 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
 - 📌 [Aggiungi curl al runtime del container](https://github.com/MainKronos/Curriculum/commit/4781ba5db5cdc8a9713be010fa491fdabd0b11ce)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
-- 📌 [Merge pull request #161 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/72c5a32aaa706878f75d137e1984b6c24dc1d7ff)
-- 📌 [Aggiornamento della documentazione per includere ANIMEWORLD_URL](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/87f97d1ad98b0c20a8d70d46f1f6e31f53a8c8c7)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1750735184.8096712' width='100%'>
+<img align='center' src='res/quote.svg?1750821653.8147104' width='100%'>
 
 <!-- END QUOTE -->
 
