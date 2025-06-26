@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [setuptools](https://github.com/MainKronos/AnimeWorld-API/commit/015de2dd1ab19fad38463729b27558007c666678)
-- 📌 [#25](https://github.com/MainKronos/AnimeWorld-API/commit/a391c525843b8410e38ffa5c6a043556a895b133)
-- 📌 [Python 3.11](https://github.com/MainKronos/AnimeWorld-API/commit/af2a01729d7cd8e5004e9153b9e5ab3fc773a17d)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
+> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
+- 📌 [setuptools](https://github.com/MainKronos/AnimeWorld-API/commit/015de2dd1ab19fad38463729b27558007c666678)
+- 📌 [#25](https://github.com/MainKronos/AnimeWorld-API/commit/a391c525843b8410e38ffa5c6a043556a895b133)
+- 📌 [Python 3.11](https://github.com/MainKronos/AnimeWorld-API/commit/af2a01729d7cd8e5004e9153b9e5ab3fc773a17d)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1750821653.8147104' width='100%'>
+<img align='center' src='res/quote.svg?1750907975.3355618' width='100%'>
 
 <!-- END QUOTE -->
 
