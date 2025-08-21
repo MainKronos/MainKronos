@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
+- 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
+- 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [setuptools](https://github.com/MainKronos/AnimeWorld-API/commit/015de2dd1ab19fad38463729b27558007c666678)
 - 📌 [#25](https://github.com/MainKronos/AnimeWorld-API/commit/a391c525843b8410e38ffa5c6a043556a895b133)
 - 📌 [Python 3.11](https://github.com/MainKronos/AnimeWorld-API/commit/af2a01729d7cd8e5004e9153b9e5ab3fc773a17d)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
-- 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
-- 📌 [Aggiungi curl al runtime del container](https://github.com/MainKronos/Curriculum/commit/4781ba5db5cdc8a9713be010fa491fdabd0b11ce)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1755659373.6335056' width='100%'>
+<img align='center' src='res/quote.svg?1755745711.0245514' width='100%'>
 
 <!-- END QUOTE -->
 
