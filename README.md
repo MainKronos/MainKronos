@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [WassBin](https://github.com/MainKronos/WassBin)
+> None
+- 📌 [feat: Aggiornare .gitignore e migliorare la documentazione del README](https://github.com/MainKronos/WassBin/commit/8181dce2f2573c75ba49d814825fbdcb4a7207e6)
+- 📌 [feat: Initialize WassBin - Binary Dissector extension](https://github.com/MainKronos/WassBin/commit/bda49fef05856e3c32f9296ffb3f4056b58d02ca)
+- 📌 [Initial commit](https://github.com/MainKronos/WassBin/commit/50f787f7e142b3170fc0e8e9816dc96d13da5917)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
 - 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
 - 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
-### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
-> AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
-- 📌 [setuptools](https://github.com/MainKronos/AnimeWorld-API/commit/015de2dd1ab19fad38463729b27558007c666678)
-- 📌 [#25](https://github.com/MainKronos/AnimeWorld-API/commit/a391c525843b8410e38ffa5c6a043556a895b133)
-- 📌 [Python 3.11](https://github.com/MainKronos/AnimeWorld-API/commit/af2a01729d7cd8e5004e9153b9e5ab3fc773a17d)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1756954562.1675205' width='100%'>
+<img align='center' src='res/quote.svg?1757041174.763293' width='100%'>
 
 <!-- END QUOTE -->
 
