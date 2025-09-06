@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [WassBin](https://github.com/MainKronos/WassBin)
-> None
-- 📌 [feat: Aggiornare .gitignore e migliorare la documentazione del README](https://github.com/MainKronos/WassBin/commit/8181dce2f2573c75ba49d814825fbdcb4a7207e6)
-- 📌 [feat: Initialize WassBin - Binary Dissector extension](https://github.com/MainKronos/WassBin/commit/bda49fef05856e3c32f9296ffb3f4056b58d02ca)
-- 📌 [Initial commit](https://github.com/MainKronos/WassBin/commit/50f787f7e142b3170fc0e8e9816dc96d13da5917)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [WassBin](https://github.com/MainKronos/WassBin)
+> None
+- 📌 [feat: Aggiornare .gitignore e migliorare la documentazione del README](https://github.com/MainKronos/WassBin/commit/8181dce2f2573c75ba49d814825fbdcb4a7207e6)
+- 📌 [feat: Initialize WassBin - Binary Dissector extension](https://github.com/MainKronos/WassBin/commit/bda49fef05856e3c32f9296ffb3f4056b58d02ca)
+- 📌 [Initial commit](https://github.com/MainKronos/WassBin/commit/50f787f7e142b3170fc0e8e9816dc96d13da5917)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1757041174.763293' width='100%'>
+<img align='center' src='res/quote.svg?1757127278.2752438' width='100%'>
 
 <!-- END QUOTE -->
 
