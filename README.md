@@ -24,6 +24,10 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Interstellar](https://github.com/MainKronos/Interstellar)
+> One of the most popular modern web proxies with blazing fast speeds and a variety of games.
+- 📌 [Rimuovi il codice di Google Tag Manager da tutti i file HTML e elimina ads.txt](https://github.com/MainKronos/Interstellar/commit/9869065ab5f38dac1ca55974ab842086a7eea3e5)
+- 📌 [Rimuovi il codice di Google Tag Manager da tutti i file HTML](https://github.com/MainKronos/Interstellar/commit/146eafbacba8d8c3fe3067647f816281d21a74c8)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +38,6 @@
 - 📌 [feat: Aggiornare .gitignore e migliorare la documentazione del README](https://github.com/MainKronos/WassBin/commit/8181dce2f2573c75ba49d814825fbdcb4a7207e6)
 - 📌 [feat: Initialize WassBin - Binary Dissector extension](https://github.com/MainKronos/WassBin/commit/bda49fef05856e3c32f9296ffb3f4056b58d02ca)
 - 📌 [Initial commit](https://github.com/MainKronos/WassBin/commit/50f787f7e142b3170fc0e8e9816dc96d13da5917)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
-- 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
-- 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1757386940.3783138' width='100%'>
+<img align='center' src='res/quote.svg?1757472980.1992738' width='100%'>
 
 <!-- END QUOTE -->
 
