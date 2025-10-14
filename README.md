@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1760325073.1269968' width='100%'>
+<img align='center' src='res/quote.svg?1760410914.1081188' width='100%'>
 
 <!-- END QUOTE -->
 
