@@ -26,6 +26,7 @@
 
 ### 🔓 [aw-downloader](https://github.com/MainKronos/aw-downloader)
 > None
+- 📌 [feat: refine notification service by removing unused implementations and enhancing notification field structure](https://github.com/MainKronos/aw-downloader/commit/33530d7e58e923b172ac26ae1f686abfb5b0be51)
 - 📌 [feat: implement Sonarr notifications feature with fetching and sending notifications](https://github.com/MainKronos/aw-downloader/commit/0b3c9eba987823ef0540d4bcc0dc313accf28439)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
@@ -86,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1763869056.4691584' width='100%'>
+<img align='center' src='res/quote.svg?1763954752.8527176' width='100%'>
 
 <!-- END QUOTE -->
 
