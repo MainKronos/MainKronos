@@ -24,15 +24,15 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [aw-downloader](https://github.com/MainKronos/aw-downloader)
-> None
-- 📌 [feat: refine notification service by removing unused implementations and enhancing notification field structure](https://github.com/MainKronos/aw-downloader/commit/33530d7e58e923b172ac26ae1f686abfb5b0be51)
-- 📌 [feat: implement Sonarr notifications feature with fetching and sending notifications](https://github.com/MainKronos/aw-downloader/commit/0b3c9eba987823ef0540d4bcc0dc313accf28439)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [aw-downloader](https://github.com/MainKronos/aw-downloader)
+> None
+- 📌 [feat: refine notification service by removing unused implementations and enhancing notification field structure](https://github.com/MainKronos/aw-downloader/commit/33530d7e58e923b172ac26ae1f686abfb5b0be51)
+- 📌 [feat: implement Sonarr notifications feature with fetching and sending notifications](https://github.com/MainKronos/aw-downloader/commit/0b3c9eba987823ef0540d4bcc0dc313accf28439)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
@@ -87,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1763954752.8527176' width='100%'>
+<img align='center' src='res/quote.svg?1764040600.4076078' width='100%'>
 
 <!-- END QUOTE -->
 
