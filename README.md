@@ -24,6 +24,9 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [SmartWallpaper](https://github.com/MainKronos/SmartWallpaper)
+> None
+- 📌 [Initial Commit](https://github.com/MainKronos/SmartWallpaper/commit/5776dc139ef050a333d8fed62938602a9c5629db)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -33,11 +36,6 @@
 > None
 - 📌 [feat: refine notification service by removing unused implementations and enhancing notification field structure](https://github.com/MainKronos/aw-downloader/commit/33530d7e58e923b172ac26ae1f686abfb5b0be51)
 - 📌 [feat: implement Sonarr notifications feature with fetching and sending notifications](https://github.com/MainKronos/aw-downloader/commit/0b3c9eba987823ef0540d4bcc0dc313accf28439)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
-- 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
-- 📌 [update healthcheck](https://github.com/MainKronos/Curriculum/commit/c80388a37af9a6af275a0bfd3eea84e0620fcb72)
 
 <!-- END ACTIVITY -->
 
@@ -87,7 +85,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1764904855.657476' width='100%'>
+<img align='center' src='res/quote.svg?1764990684.0041165' width='100%'>
 
 <!-- END QUOTE -->
 
