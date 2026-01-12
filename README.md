@@ -24,6 +24,8 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [aw-downloader](https://github.com/MainKronos/aw-downloader)
+> None
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,9 +36,6 @@
 - 📌 [Add files via upload](https://github.com/MainKronos/Zynq7000-WebEditor/commit/694ad2fbbffaecb6eab64544b713d49f80d443f6)
 - 📌 [Add files via upload](https://github.com/MainKronos/Zynq7000-WebEditor/commit/5361ed6b3a7319b48eab6bf611151f838a82d640)
 - 📌 [Initial commit](https://github.com/MainKronos/Zynq7000-WebEditor/commit/6ddc950bc3215c2ecdb82d22b7d70cade72aa80a)
-### 🔒 [SmartWallpaper](https://github.com/MainKronos/SmartWallpaper)
-> None
-- 📌 [Initial Commit](https://github.com/MainKronos/SmartWallpaper/commit/5776dc139ef050a333d8fed62938602a9c5629db)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +85,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1768103514.7732692' width='100%'>
+<img align='center' src='res/quote.svg?1768189862.3142996' width='100%'>
 
 <!-- END QUOTE -->
 
