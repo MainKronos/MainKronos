@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
+- 📌 [Merge pull request #161 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/72c5a32aaa706878f75d137e1984b6c24dc1d7ff)
+- 📌 [Aggiornamento della documentazione per includere ANIMEWORLD_URL](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/87f97d1ad98b0c20a8d70d46f1f6e31f53a8c8c7)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -32,11 +37,6 @@
 ### 🔓 [aw-downloader](https://github.com/MainKronos/aw-downloader)
 > None
 - 📌 [fix invalid file name](https://github.com/MainKronos/aw-downloader/commit/b3b739f9a234606ef2de30f721dddb35b44ddd27)
-### 🔒 [Zynq7000-WebEditor](https://github.com/MainKronos/Zynq7000-WebEditor)
-> None
-- 📌 [Add files via upload](https://github.com/MainKronos/Zynq7000-WebEditor/commit/694ad2fbbffaecb6eab64544b713d49f80d443f6)
-- 📌 [Add files via upload](https://github.com/MainKronos/Zynq7000-WebEditor/commit/5361ed6b3a7319b48eab6bf611151f838a82d640)
-- 📌 [Initial commit](https://github.com/MainKronos/Zynq7000-WebEditor/commit/6ddc950bc3215c2ecdb82d22b7d70cade72aa80a)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1769399932.029699' width='100%'>
+<img align='center' src='res/quote.svg?1769485774.8780608' width='100%'>
 
 <!-- END QUOTE -->
 
