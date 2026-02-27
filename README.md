@@ -16,7 +16,7 @@
 - 🎒 I'm a Computer Engineering Student
 - 📺 I loves anime and manga
 - 🦊 Gender: Male
-- ⏳ Age: 24 years old
+- ⏳ Age: 25 years old
 - ⚡ Fun fact: I don't have a girlfriend 🌧
 - 📫 How to reach me: <a href="https://discord.gg/XmTDXHJqxJ" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="discord logo" /></a> <a href="mailto:lorenzo.chesi@live.it"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="16px" alt="gmail logo"/></a>
 
@@ -85,7 +85,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1772079569.1705952' width='100%'>
+<img align='center' src='res/quote.svg?1772165711.061132' width='100%'>
 
 <!-- END QUOTE -->
 
