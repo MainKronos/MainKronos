@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
+- 📌 [Merge pull request #161 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/72c5a32aaa706878f75d137e1984b6c24dc1d7ff)
+- 📌 [Aggiornamento della documentazione per includere ANIMEWORLD_URL](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/87f97d1ad98b0c20a8d70d46f1f6e31f53a8c8c7)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [update dependencies and remove Analytics component](https://github.com/MainKronos/Curriculum/commit/ca093cf344793351ed9f287147dac32c30d73517)
 - 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
 - 📌 [healthcheck](https://github.com/MainKronos/Curriculum/commit/323e0b1e7809a76ceb83bbbadfa5eaad33d79d06)
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
-- 📌 [Merge pull request #161 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/72c5a32aaa706878f75d137e1984b6c24dc1d7ff)
-- 📌 [Aggiornamento della documentazione per includere ANIMEWORLD_URL](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/87f97d1ad98b0c20a8d70d46f1f6e31f53a8c8c7)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1774759152.1992512' width='100%'>
+<img align='center' src='res/quote.svg?1774846011.9733307' width='100%'>
 
 <!-- END QUOTE -->
 
