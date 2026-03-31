@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
-- 📌 [Merge pull request #161 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/72c5a32aaa706878f75d137e1984b6c24dc1d7ff)
-- 📌 [Aggiornamento della documentazione per includere ANIMEWORLD_URL](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/87f97d1ad98b0c20a8d70d46f1f6e31f53a8c8c7)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Aggiornamento del pattern di validazione del link per consentire URL più generali](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/e979b64c5a51c0ec9e33ac9c135bd5d641f7846f)
+- 📌 [Merge pull request #161 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/72c5a32aaa706878f75d137e1984b6c24dc1d7ff)
+- 📌 [Aggiornamento della documentazione per includere ANIMEWORLD_URL](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/87f97d1ad98b0c20a8d70d46f1f6e31f53a8c8c7)
 ### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
 > Curriculum Vitae
 - 📌 [update dependencies and remove Analytics component](https://github.com/MainKronos/Curriculum/commit/ca093cf344793351ed9f287147dac32c30d73517)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1774846011.9733307' width='100%'>
+<img align='center' src='res/quote.svg?1774931872.1188517' width='100%'>
 
 <!-- END QUOTE -->
 
