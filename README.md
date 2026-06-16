@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #179 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3ecf1b9b2dd006bcc98759eceb672e4b71809b4c)
+- 📌 [Merge pull request #176 from mr-brune/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/16502db2e30e41a210fa1fe68599805c12cb8106)
+- 📌 [Merge pull request #173 from Ridoku-sennin/feat/stagioni-splittate](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/74a8811256f594b5bb3008465d909c265970d8a0)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,9 +39,6 @@
 - 📌 [Aggiornato il test per verificare che i link degli episodi siano di tipo Iterable e semplificato il recupero del server AnimeWorld_Server.](https://github.com/MainKronos/AnimeWorld-API/commit/c05b37e531197e6d12921c6a955a1ba728ef787f)
 - 📌 [Ristrutturato il recupero dei server e degli episodi, rimosso il supporto per Streamtape e YouTube, aggiornato il file di requisiti e la documentazione dei server.](https://github.com/MainKronos/AnimeWorld-API/commit/f1948eb48e5a414c6d724adfac601fbad3d9712d)
 - 📌 [Semplificato il metodo fileLink per restituire direttamente l'URL dell'episodio](https://github.com/MainKronos/AnimeWorld-API/commit/4733f834c9491a296b32e112c203ad0880239479)
-### 🔒 [Empty](https://github.com/MainKronos/Empty)
-> None
-- 📌 [Initialize README with an empty header](https://github.com/MainKronos/Empty/commit/9c4350c8a8c64f8900b276cd92596f7b7d4d76a8)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1781508211.8386672' width='100%'>
+<img align='center' src='res/quote.svg?1781594981.0299866' width='100%'>
 
 <!-- END QUOTE -->
 
