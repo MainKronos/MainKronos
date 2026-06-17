@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
-> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
-- 📌 [Merge pull request #179 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3ecf1b9b2dd006bcc98759eceb672e4b71809b4c)
-- 📌 [Merge pull request #176 from mr-brune/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/16502db2e30e41a210fa1fe68599805c12cb8106)
-- 📌 [Merge pull request #173 from Ridoku-sennin/feat/stagioni-splittate](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/74a8811256f594b5bb3008465d909c265970d8a0)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #179 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3ecf1b9b2dd006bcc98759eceb672e4b71809b4c)
+- 📌 [Merge pull request #176 from mr-brune/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/16502db2e30e41a210fa1fe68599805c12cb8106)
+- 📌 [Merge pull request #173 from Ridoku-sennin/feat/stagioni-splittate](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/74a8811256f594b5bb3008465d909c265970d8a0)
 ### 🔓 [AnimeWorld-API](https://github.com/MainKronos/AnimeWorld-API)
 > AnimeWorld-API is an UNOFFICIAL library for AnimeWorld (Italian anime site).
 - 📌 [Aggiornato il test per verificare che i link degli episodi siano di tipo Iterable e semplificato il recupero del server AnimeWorld_Server.](https://github.com/MainKronos/AnimeWorld-API/commit/c05b37e531197e6d12921c6a955a1ba728ef787f)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1781594981.0299866' width='100%'>
+<img align='center' src='res/quote.svg?1781680391.6523435' width='100%'>
 
 <!-- END QUOTE -->
 
