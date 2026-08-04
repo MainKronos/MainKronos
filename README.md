@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
-- 📌 [update dependencies and remove Analytics component](https://github.com/MainKronos/Curriculum/commit/ca093cf344793351ed9f287147dac32c30d73517)
-- 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
+- 📌 [update dependencies and remove Analytics component](https://github.com/MainKronos/Curriculum/commit/ca093cf344793351ed9f287147dac32c30d73517)
+- 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Merge pull request #179 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3ecf1b9b2dd006bcc98759eceb672e4b71809b4c)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1785735887.3281794' width='100%'>
+<img align='center' src='res/quote.svg?1785820615.8057' width='100%'>
 
 <!-- END QUOTE -->
 
