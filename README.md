@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Refactor code structure for improved readability and maintainability](https://github.com/MainKronos/Curriculum/commit/8cf180295fc7ef978b615b40ea9fc13e64a8cd16)
+- 📌 [Fix links in Education.astro to use absolute paths](https://github.com/MainKronos/Curriculum/commit/50778e1097096f7211f33678c55121ec2ba8b6f0)
+- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -32,11 +37,6 @@
 ### 🔒 [VoidHex](https://github.com/MainKronos/VoidHex)
 > None
 - 📌 [Initial commit](https://github.com/MainKronos/VoidHex/commit/85011c7ec014b21dc8ecb38fbbf8640e239ac864)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
-- 📌 [update dependencies and remove Analytics component](https://github.com/MainKronos/Curriculum/commit/ca093cf344793351ed9f287147dac32c30d73517)
-- 📌 [Embedded Software Engineer](https://github.com/MainKronos/Curriculum/commit/06b0b49307bd06b951b0e8827bdbc4271043168b)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1787194699.0168302' width='100%'>
+<img align='center' src='res/quote.svg?1787281480.9897342' width='100%'>
 
 <!-- END QUOTE -->
 
