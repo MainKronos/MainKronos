@@ -24,16 +24,16 @@
 
 <!-- BEGIN ACTIVITY -->
 
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Refactor code structure for improved readability and maintainability](https://github.com/MainKronos/Curriculum/commit/8cf180295fc7ef978b615b40ea9fc13e64a8cd16)
-- 📌 [Fix links in Education.astro to use absolute paths](https://github.com/MainKronos/Curriculum/commit/50778e1097096f7211f33678c55121ec2ba8b6f0)
-- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 - 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/0f8b8a8c1b900c49365e2f400b12026d35c96cf0)
 - 📌 [fix](https://github.com/MainKronos/MainKronos/commit/dade37c4c67b45beb586072c2907377df2d6f8a3)
+### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
+> Curriculum Vitae
+- 📌 [Refactor code structure for improved readability and maintainability](https://github.com/MainKronos/Curriculum/commit/8cf180295fc7ef978b615b40ea9fc13e64a8cd16)
+- 📌 [Fix links in Education.astro to use absolute paths](https://github.com/MainKronos/Curriculum/commit/50778e1097096f7211f33678c55121ec2ba8b6f0)
+- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
 ### 🔒 [VoidHex](https://github.com/MainKronos/VoidHex)
 > None
 - 📌 [Initial commit](https://github.com/MainKronos/VoidHex/commit/85011c7ec014b21dc8ecb38fbbf8640e239ac864)
@@ -86,7 +86,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1787281480.9897342' width='100%'>
+<img align='center' src='res/quote.svg?1787367329.5371861' width='100%'>
 
 <!-- END QUOTE -->
 
