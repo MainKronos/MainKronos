@@ -24,6 +24,10 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔒 [VoidHex](https://github.com/MainKronos/VoidHex)
+> None
+- 📌 [feat: Add new components and pages for system and WiFi management](https://github.com/MainKronos/VoidHex/commit/fc8c0841a945134ff8e354916a6a462b347c39cc)
+- 📌 [Initial commit](https://github.com/MainKronos/VoidHex/commit/85011c7ec014b21dc8ecb38fbbf8640e239ac864)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,9 +38,6 @@
 - 📌 [Refactor code structure for improved readability and maintainability](https://github.com/MainKronos/Curriculum/commit/8cf180295fc7ef978b615b40ea9fc13e64a8cd16)
 - 📌 [Fix links in Education.astro to use absolute paths](https://github.com/MainKronos/Curriculum/commit/50778e1097096f7211f33678c55121ec2ba8b6f0)
 - 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
-### 🔒 [VoidHex](https://github.com/MainKronos/VoidHex)
-> None
-- 📌 [Initial commit](https://github.com/MainKronos/VoidHex/commit/85011c7ec014b21dc8ecb38fbbf8640e239ac864)
 
 <!-- END ACTIVITY -->
 
@@ -86,7 +87,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1787454256.7061844' width='100%'>
+<img align='center' src='res/quote.svg?1787540700.5074117' width='100%'>
 
 <!-- END QUOTE -->
 
