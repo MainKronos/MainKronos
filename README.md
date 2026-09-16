@@ -24,6 +24,11 @@
 
 <!-- BEGIN ACTIVITY -->
 
+### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
+> It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
+- 📌 [Merge pull request #179 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3ecf1b9b2dd006bcc98759eceb672e4b71809b4c)
+- 📌 [Merge pull request #176 from mr-brune/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/16502db2e30e41a210fa1fe68599805c12cb8106)
+- 📌 [Merge pull request #173 from Ridoku-sennin/feat/stagioni-splittate](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/74a8811256f594b5bb3008465d909c265970d8a0)
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
 - 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
@@ -34,11 +39,6 @@
 - 📌 [starting point](https://github.com/MainKronos/VoidHex/commit/3344274827ab0cf48cdef6aa3655b83f6289e027)
 - 📌 [feat: Add WiFi management and time display components](https://github.com/MainKronos/VoidHex/commit/49ebf9246e706f90483dcca013a83094a514b11c)
 - 📌 [feat: Add new components and pages for system and WiFi management](https://github.com/MainKronos/VoidHex/commit/fc8c0841a945134ff8e354916a6a462b347c39cc)
-### 🔒 [Curriculum](https://github.com/MainKronos/Curriculum)
-> Curriculum Vitae
-- 📌 [Refactor code structure for improved readability and maintainability](https://github.com/MainKronos/Curriculum/commit/8cf180295fc7ef978b615b40ea9fc13e64a8cd16)
-- 📌 [Fix links in Education.astro to use absolute paths](https://github.com/MainKronos/Curriculum/commit/50778e1097096f7211f33678c55121ec2ba8b6f0)
-- 📌 [Update dependencies and improve skills descriptions](https://github.com/MainKronos/Curriculum/commit/790f03a4ada96ea9980339ea1e742399044b3200)
 
 <!-- END ACTIVITY -->
 
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1789457091.354896' width='100%'>
+<img align='center' src='res/quote.svg?1789543425.293915' width='100%'>
 
 <!-- END QUOTE -->
 
