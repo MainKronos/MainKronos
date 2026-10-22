@@ -14,10 +14,10 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: 3.9
+          python-version: '3.13'
+          cache: 'pip' # caching pip dependencies
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
           if [ -f script/requirements.txt ]; then pip install -r script/requirements.txt; fi
       - name: Generate README
         run: python script/readme.py
