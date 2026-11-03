@@ -26,9 +26,9 @@
 
 ### 🔓 [MainKronos](https://github.com/MainKronos/MainKronos)
 > My GitHub Profile README.
+- 📌 [Update README.md](https://github.com/MainKronos/MainKronos/commit/16203d756a365ee1dea8eb7ffa1c28c9c031e49d)
 - 📌 [Update Python setup action to version 7](https://github.com/MainKronos/MainKronos/commit/b8d740fc9b2d73c516d01ccfa3f9ab0d5d4756cf)
 - 📌 [Update Python version and enable pip caching](https://github.com/MainKronos/MainKronos/commit/9117f9ea2eb7fe9958ac8d0d8d64a8e968ea001d)
-- 📌 [Update sponsors](https://github.com/MainKronos/MainKronos/commit/b1b853ebe0c7cb6a9fadaa81e9949ccc735d3105)
 ### 🔓 [Sonarr-AnimeDownloader](https://github.com/MainKronos/Sonarr-AnimeDownloader)
 > It is a Docker Container that uses Sonarr to download anime from AnimeWorld site (ITALY).
 - 📌 [Merge pull request #179 from MainKronos/dev](https://github.com/MainKronos/Sonarr-AnimeDownloader/commit/3ecf1b9b2dd006bcc98759eceb672e4b71809b4c)
@@ -88,7 +88,7 @@
 
 <!-- BEGIN QUOTE -->
 
-<img align='center' src='res/quote.svg?1793610035.2730937' width='100%'>
+<img align='center' src='res/quote.svg?1793696957.7893176' width='100%'>
 
 <!-- END QUOTE -->
 
